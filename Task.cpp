@@ -21,8 +21,11 @@ double locd(int location, string line)
     int i = 0;
     for(i=0; i<10; i++){
         if(line.substr(i) == "1" || line.substr(i) == "2" || line.substr(i) == "3" || line.substr(i) == "4"){
-            location = stod(line.substr(i));
-            break;
+            for(int j=0; j<10; j++){
+                if(line.substr(j) == " "){
+                    location = stod(line.substr(j));
+                }
+            }
         }
     }
     return location;
@@ -78,10 +81,8 @@ void open_file(string filepath)
         cpu = locd(location, line);
         cout << "CPU usage: " << cpu << endl;
         location = setloc(location, line);
-        cout << "The whole line: " << line << endl;
-
-
-
+        line = line.substr(location + 1, line.length());
+        
     }
 }
 

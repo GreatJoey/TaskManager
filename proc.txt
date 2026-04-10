@@ -234,9 +234,9 @@ ericjohnson      14188   0.0  0.2 426964256  12784   ??  S    Thu02PM   1:23.45 
 _neuralengine     8085   0.0  0.0 426916640   1568   ??  S     1Apr26   0:03.85 /usr/sbin/distnoted agent
 ericjohnson       7926   0.0  0.0 426916592   3280   ??  S     1Apr26   0:04.96 /usr/sbin/BTLEServerAgent
 ericjohnson       7857   0.0  0.1 426958592   7568   ??  S     1Apr26   0:08.45 /usr/libexec/tipsd
-ericjohnson       7795   0.0  0.1 427018784   6160   ??  S     1Apr26   0:05.80 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
-ericjohnson       6312   0.0  0.1 426950784   4512   ??  S     1Apr26   0:02.00 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
-root              3442   0.0  0.0 426916720   1344   ??  Ss   31Mar26   0:00.02 /usr/libexec/taskgated
+ericjohnson       7795   2.0  0.1 427018784   6160   ??  S     1Apr26   0:05.80 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+ericjohnson       6312   3.0  0.1 426950784   4512   ??  S     1Apr26   0:02.00 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              3442   4.0  0.0 426916720   1344   ??  Ss   31Mar26   0:00.02 /usr/libexec/taskgated
 ericjohnson       3384   0.0  0.1 411184256   6032   ??  S    31Mar26   0:05.93 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
 _modelmanagerd    3151   0.0  0.1 427002800   4752   ??  Ss   31Mar26   0:30.00 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
 _modelmanagerd    3149   0.0  0.0 426916640   1568   ??  S    31Mar26   0:04.17 /usr/sbin/distnoted agent
