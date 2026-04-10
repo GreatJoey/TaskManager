@@ -12,6 +12,8 @@ A task manager written in C++ and some bash
 
 You should see something like this (Likely way more proccesses)
 
+Example looks a bit off because it is running through a simulated bash shell.
+
 ```
 $ ./Task.sh
 Running ps aux
