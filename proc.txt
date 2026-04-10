@@ -1,435 +1,535 @@
 USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
-_trustd            392   4.9  0.2 427043616  13440   ??  Ss   31Mar26   3:22.13 /usr/libexec/trustd
-root             38774   4.3  0.4 426952256  33808   ??  Ss    9:46PM   0:00.24 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
-_reportmemoryexception 38776   1.8  0.1 426953760   9072   ??  Ss    9:46PM   0:00.07 /usr/libexec/ReportMemoryException
-root               458   1.1  0.2 427049184  15168   ??  Ss   31Mar26   2:46.60 /usr/libexec/syspolicyd
-root               307   0.5  0.2 427025392  15696   ??  Ss   31Mar26   7:44.29 /usr/libexec/logd
-_driverkit         507   0.5  0.4 426919120  35936   ??  Ss   31Mar26  18:24.25 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000b13 com.apple.DriverKit-AppleBCMWLAN
-_windowserver      377   0.4  1.0 414281936  84560   ??  Ss   31Mar26 140:09.81 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
-root             38775   0.4  0.0 426913584   4032   ??  Ss    9:46PM   0:00.02 /System/Library/CoreServices/ReportCrash daemon
-ericjohnson      36583   0.3  0.9 412378672  77872   ??  S     3:59PM   0:04.43 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
-ericjohnson      34892   0.3  2.8 424770000 237920   ??  S    12:08PM   3:30.93 /Applications/Firefox.app/Contents/MacOS/firefox
-_mdnsresponder     461   0.2  0.2 427043952  13168   ??  Ss   31Mar26   5:40.64 /usr/sbin/mDNSResponder
-ericjohnson      27096   0.2  0.2 427068960  17328   ??  S    Mon11AM   3:05.75 /usr/libexec/networkserviceproxy
-root                 1   0.1  0.2 426853216  15376   ??  Ss   31Mar26  13:09.52 /sbin/launchd
-root               385   0.1  0.1 426962272  12112   ??  Ss   31Mar26   0:38.57 /usr/libexec/lsd runAsRoot
-root               369   0.1  0.2 426979888  20752   ??  Ss   31Mar26  11:09.02 /usr/sbin/bluetoothd
-root               533   0.1  0.3 427043744  22176   ??  Ss   31Mar26   5:42.80 /usr/libexec/searchpartyd
-_locationd         354   0.1  0.2 426986688  17760   ??  Ss   31Mar26  13:12.69 /usr/libexec/locationd
-ericjohnson      38639   0.0  0.0 410172832   1824   ??  Ss    9:41PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
-ericjohnson      38638   0.0  0.0 410182048   1792   ??  Ss    9:41PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
-ericjohnson      38637   0.0  0.1 426963728  10992   ??  S     9:41PM   0:00.16 /System/Library/CoreServices/ScopedBookmarkAgent
-ericjohnson      38633   0.0  0.0 410154400   1792   ??  Ss    9:41PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
-_iconservices    38631   0.0  0.0 426950464   3184   ??  Ss    9:41PM   0:00.03 /System/Library/CoreServices/iconservicesd
-ericjohnson      38630   0.0  0.4 426987792  30224   ??  Ss    9:41PM   0:00.41 /System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension
-ericjohnson      38629   0.0  0.1 426929696   7248   ??  Ss    9:41PM   0:00.05 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
-ericjohnson      38628   0.0  0.2 427024640  14208   ??  S     9:41PM   0:00.11 /System/Library/CoreServices/iconservicesagent
-root             38561   0.0  0.1 426950080   4624   ??  Ss    9:41PM   0:00.14 /usr/libexec/triald_system
-ericjohnson      38461   0.0  0.0 426912608   1936   ??  S     9:41PM   0:00.04 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
-root             38460   0.0  0.0 426924352   2800   ??  Ss    9:41PM   0:00.14 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
-root             38459   0.0  0.0 426916704   3008   ??  Ss    9:41PM   0:00.07 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
-_assetcache      38458   0.0  0.1 426952816   5168   ??  Ss    9:41PM   0:00.14 /usr/libexec/AssetCache/AssetCache
-root             38457   0.0  0.0 426916704   3008   ??  Ss    9:41PM   0:00.07 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
-ericjohnson      38456   0.0  0.0 426912624   2528   ??  S     9:41PM   0:00.03 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
-_neuralengine    38454   0.0  0.1 426950832   4208   ??  Ss    9:41PM   0:00.12 /usr/libexec/aneuserd
-root             38455   0.0  0.1 426950544   7584   ??  Ss    9:41PM   0:00.25 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
-root             38400   0.0  0.0 426912608   2144   ??  Ss    9:41PM   0:00.21 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
-ericjohnson      38399   0.0  0.2 426964624  20544   ??  S     9:41PM   0:01.38 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
-root             38371   0.0  0.0 410814688   3648   ??  Ss    9:41PM   0:00.04 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
-root             38352   0.0  0.1 426955232   7216   ??  Ss    9:41PM   0:00.53 /usr/libexec/storagekitd
-ericjohnson      38300   0.0  0.3 427485040  23088   ??  S     9:41PM   0:00.46 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
-ericjohnson      38299   0.0  0.0 410163616   1824   ??  Ss    9:41PM   0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
-root             37765   0.0  0.1 411181712   8736   ??  Ss    9:41PM   0:00.17 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
-root             37764   0.0  0.1 411050480   5648   ??  Ss    9:41PM   0:00.10 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
-root             37455   0.0  0.0 426950688   4176   ??  Ss    9:41PM   0:00.03 /usr/libexec/amfid
-root             37429   0.0  0.0 426916384   1184   ??  Ss    9:41PM   0:00.05 /usr/libexec/logd_helper
-ericjohnson      37416   0.0  0.2 426973392  14544   ??  S     9:40PM   0:00.76 /usr/libexec/linkd
-ericjohnson      37415   0.0  0.3 411092432  24080   ??  Ss    9:40PM   0:00.76 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
-root             37408   0.0  0.0 410304720   2352   ??  Ss    9:39PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
-ericjohnson      37404   0.0  0.1 410790384   4464 s002  S     9:39PM   0:00.09 -zsh
-root             37403   0.0  0.0 426916736   3360   ??  Ss    9:39PM   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
-root             37402   0.0  0.1 426964016   8560   ??  Ss    9:39PM   0:00.05 /usr/sbin/systemsoundserverd
-root             37401   0.0  0.0 410752944   3600 s002  Ss    9:39PM   0:00.03 login -pf ericjohnson
-ericjohnson      37400   0.0  0.1 426950096   5232   ??  S     9:39PM   0:00.06 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
-ericjohnson      37389   0.0  0.0 426953984   4096   ??  S     9:33PM   0:00.32 /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app/Contents/MacOS/IMTransferAgent
-ericjohnson      37387   0.0  0.2 410988432  13200   ??  S     9:33PM   0:00.07 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
-ericjohnson      37386   0.0  0.5 411545120  40464   ??  S     9:33PM   0:00.16 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
-ericjohnson      37385   0.0  2.0 499643488 169296   ??  Ss    9:33PM   0:05.44 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-root             37384   0.0  0.1 426951664   8464   ??  Ss    9:32PM   0:00.11 /usr/libexec/biometrickitd --launchd
-ericjohnson      37383   0.0  0.1 426916880   4800   ??  S     9:32PM   0:00.05 /usr/libexec/keychainsharingmessagingd
-ericjohnson      37382   0.0  1.9 499400912 162992   ??  Ss    9:32PM   0:01.15 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37381   0.0  0.8 427180848  67264   ??  S     9:32PM   0:00.62 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
-ericjohnson      37379   0.0  2.1 499674640 174048   ??  Ss    9:32PM   0:01.85 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37376   0.0  2.2 499902320 185136   ??  Ss    9:32PM   0:05.92 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37371   0.0  0.1 426962848   8608   ??  S     9:31PM   0:00.08 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
-ericjohnson      37369   0.0  0.1 426951952   9360   ??  S     9:31PM   0:00.15 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
-ericjohnson      37368   0.0  2.0 500052336 166032   ??  Ss    9:31PM   0:09.07 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-root             37366   0.0  0.0 426916256   3648   ??  Ss    9:31PM   0:00.11 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
-ericjohnson      37365   0.0  1.5 499305168 128304   ??  Ss    9:31PM   0:00.50 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-root             37363   0.0  0.1 426950896   4992   ??  Ss    9:30PM   0:00.09 /usr/libexec/countryd
-_cmiodalassistants 37362   0.0  0.0 426949312   2992   ??  S     9:30PM   0:00.07 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
-_locationd       37361   0.0  0.0 426949312   2992   ??  S     9:30PM   0:00.07 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
-root             37360   0.0  0.0 426950464   3280   ??  Ss    9:30PM   0:00.06 /usr/libexec/trustdFileHelper
-_locationd       37359   0.0  0.1 426952720   5056   ??  S     9:30PM   0:00.17 /usr/libexec/trustd --agent
-_cmiodalassistants 37358   0.0  0.1 426952720   5056   ??  S     9:30PM   0:00.17 /usr/libexec/trustd --agent
-_locationd       37356   0.0  0.0 426916688   1760   ??  S     9:30PM   0:00.05 /usr/sbin/cfprefsd agent
-_cmiodalassistants 37357   0.0  0.0 426916688   1776   ??  S     9:30PM   0:00.05 /usr/sbin/cfprefsd agent
-_locationd       37355   0.0  0.1 426962496   5616   ??  S     9:30PM   0:00.06 /usr/libexec/secinitd
-_cmiodalassistants 37354   0.0  0.1 426962496   5616   ??  S     9:30PM   0:00.05 /usr/libexec/secinitd
-_locationd       37352   0.0  0.1 426953520   8848   ??  S     9:30PM   0:00.16 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
-_cmiodalassistants 37353   0.0  0.1 426953520   8416   ??  S     9:30PM   0:00.14 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
-ericjohnson      37351   0.0  0.1 426953264   8672   ??  S     9:30PM   0:00.45 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
-root             37349   0.0  0.0 426950368   3136   ??  Ss    9:30PM   0:00.06 /usr/libexec/securityd_system
-root             37348   0.0  0.1 426950624   7632   ??  Ss    9:30PM   0:00.18 /usr/libexec/findmybeaconingd
-ericjohnson      37344   0.0  0.1 426929184   6976   ??  Ss    9:29PM   0:00.01 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
-ericjohnson      37343   0.0  0.1 426929328   6816   ??  Ss    9:29PM   0:00.01 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
-ericjohnson      37342   0.0  0.1 426929184   7248   ??  Ss    9:29PM   0:00.02 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
-ericjohnson      37341   0.0  0.1 426962688   8048   ??  Ss    9:29PM   0:00.04 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
-ericjohnson      37340   0.0  0.1 426929696   6496   ??  Ss    9:29PM   0:00.12 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
-ericjohnson      37339   0.0  0.1 410799776  10432   ??  Ss    9:29PM   0:00.18 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
-root             37334   0.0  0.0 426912256   1552   ??  Ss    9:27PM   0:00.17 /usr/libexec/sysmond
-ericjohnson      37328   0.0  0.3 427171456  26784   ??  S     9:26PM   0:00.28 /System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Resources/AccessibilityVisualsAgent.app/Contents/MacOS/AccessibilityVisualsAgent
-ericjohnson      37327   0.0  0.0 426950000   2704   ??  S     9:26PM   0:00.02 /System/Library/CoreServices/pbs
-ericjohnson      37325   0.0  0.0 426912720   1888   ??  Ss    9:26PM   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
-ericjohnson      37324   0.0  0.1 426953856   6912   ??  Ss    9:26PM   0:00.50 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
-ericjohnson      37323   0.0  0.1 426964368  11168   ??  S     9:26PM   0:00.81 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
-ericjohnson      37322   0.0  0.1 426963680  10976   ??  S     9:26PM   0:00.24 /usr/libexec/mlhostd
-ericjohnson      37320   0.0  0.1 431276048   5776   ??  S     9:25PM   0:00.38 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
-ericjohnson      37317   0.0  3.5 500269904 294400   ??  Ss    9:25PM   0:16.01 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37316   0.0  0.1 426963920   8992   ??  S     9:25PM   0:00.06 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
-root             37315   0.0  0.1 426951824   4592   ??  Ss    9:24PM   0:00.10 /System/Library/CoreServices/TimeMachine/backupd
-root             37314   0.0  0.0 426951168   2816   ??  Ss    9:24PM   0:00.03 /usr/libexec/sandboxd
-ericjohnson      37312   0.0  0.0 426913024   1808   ??  S     9:24PM   0:00.03 /System/Library/CoreServices/ReportCrash agent
-ericjohnson      37310   0.0  0.1 426949856   6880   ??  S     9:24PM   0:00.04 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
-ericjohnson      37309   0.0  0.1 426984880   8672   ??  S     9:24PM   0:00.25 /usr/libexec/findmylocateagent
-ericjohnson      37307   0.0  0.2 426970448  15472   ??  S     9:24PM   0:00.68 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
-ericjohnson      37308   0.0  0.2 426964592  14448   ??  S     9:24PM   0:00.29 /usr/libexec/proactived
-ericjohnson      37306   0.0  0.2 426970576  14560   ??  S     9:24PM   0:00.63 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
-root             37304   0.0  0.1 426949776   7072   ??  Ss    9:24PM   0:00.06 /usr/libexec/powerdatad
-ericjohnson      37305   0.0  0.2 426961008  17920   ??  S     9:24PM   0:01.15 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
-ericjohnson      37301   0.0  0.2 427037824  13840   ??  S     9:23PM   0:00.83 /usr/libexec/naturallanguaged
-ericjohnson      37299   0.0  0.0 426917760   3152   ??  S     9:23PM   0:00.05 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
-ericjohnson      37298   0.0  0.1 426955472   8176   ??  S     9:23PM   0:00.15 /usr/libexec/dmd
-ericjohnson      37296   0.0  0.9 499295888  74464   ??  Ss    9:23PM   0:00.25 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-root             37295   0.0  0.0 426950576   4112   ??  Ss    9:23PM   0:00.05 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
-ericjohnson      37294   0.0  0.1 426962784  12240   ??  S     9:23PM   0:00.20 /usr/libexec/pkd
-ericjohnson      37293   0.0  0.0 33995660    224   ??  Ss    9:23PM   0:00.85 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
-ericjohnson      37292   0.0  0.1 426950304   5536   ??  S     9:23PM   0:00.10 /usr/libexec/inputanalyticsd
-ericjohnson      37290   0.0  0.0 426916720   2144   ??  S     9:23PM   0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
-ericjohnson      37291   0.0  0.0 426916752   3664   ??  S     9:23PM   0:00.11 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
-ericjohnson      37289   0.0  0.3 427209552  26576   ??  S     9:23PM   0:00.65 /System/Cryptexes/App/usr/libexec/SafariNotificationAgent
-ericjohnson      37286   0.0  0.2 426951008  12656   ??  S     9:23PM   0:01.50 /usr/libexec/siriknowledged
-ericjohnson      37285   0.0  0.2 426981952  16432   ??  Ss    9:23PM   0:00.68 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
-root             37283   0.0  0.0 426918304   2864   ??  Ss    9:22PM   0:00.10 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
-root             37282   0.0  0.1 426949712   4960   ??  Ss    9:22PM   0:00.09 /System/Library/CoreServices/osanalyticshelper server-init
-root             37280   0.0  0.1 426978800  11184   ??  Ss    9:22PM   0:02.70 /usr/sbin/spindump
-ericjohnson      37278   0.0  0.0 426916816   3648   ??  S     9:22PM   0:00.28 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
-ericjohnson      37277   0.0  0.1 426963696   7472   ??  S     9:22PM   0:00.16 /usr/libexec/secinitd
-ericjohnson      37276   0.0  0.2 411261584  16688   ??  S     9:22PM   0:02.60 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
-root             37274   0.0  0.0 426916592   3840   ??  Ss    9:22PM   0:00.04 /usr/libexec/usermanagerd -t 15
-ericjohnson      37273   0.0  0.1 426968064   9312   ??  S     9:22PM   0:00.17 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
-ericjohnson      37272   0.0  0.2 427122224  18368   ??  S     9:22PM   0:00.32 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
-ericjohnson      37271   0.0  0.1 426963696  11712   ??  S     9:22PM   0:00.29 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
-ericjohnson      37268   0.0  0.1 410659968   4656   ??  S     9:21PM   0:00.12 /usr/libexec/SidecarRelay
-root             37267   0.0  0.1 426957424   8208   ??  Ss    9:21PM   0:00.30 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
-ericjohnson      37265   0.0  0.1 426975536  10272   ??  S     9:21PM   0:02.06 /usr/libexec/replayd
-ericjohnson      37264   0.0  0.1 426912672   4912   ??  S     9:21PM   0:00.04 /usr/libexec/feedbackd
-ericjohnson      37263   0.0  0.0 426916144   3520   ??  S     9:21PM   0:00.27 /System/Library/PrivateFrameworks/IntelligenceFlowRuntime.framework/Versions/A/intelligenceflowd
-ericjohnson      37262   0.0  0.0 426951312    320   ??  Ss    9:21PM   0:00.14 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
-ericjohnson      37261   0.0  0.1 426950064   5568   ??  S     9:21PM   0:00.08 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
-ericjohnson      37260   0.0  0.1 426946064   4816   ??  S     9:21PM   0:00.05 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
-ericjohnson      37254   0.0  0.1 426980592  12368   ??  S     9:21PM   0:00.25 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
-_fpsd            37252   0.0  0.0 426965584   2992   ??  Ss    9:19PM   0:01.18 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
-_applepay        37251   0.0  0.0 410783216   3632   ??  Ss    9:18PM   0:00.03 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
-_applepay        37250   0.0  0.1 426952176   5104   ??  Ss    9:18PM   0:00.22 /usr/libexec/nfcd
-root             37249   0.0  0.1 426951488   5776   ??  Ss    9:18PM   0:00.10 /usr/libexec/ospredictiond
-root             37242   0.0  0.0 426953696   3392   ??  Ss    9:15PM   0:00.15 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
-root             37233   0.0  0.0 410772752   1744   ??  Ss    9:12PM   0:00.04 /usr/libexec/online-auth-agent
-ericjohnson      37216   0.0  0.0 426906304   2448   ??  Ss    9:10PM   0:00.42 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
-root             37212   0.0  0.1 427157712   6624   ??  Ss    9:10PM   0:00.37 /usr/libexec/audioanalyticsd
-ericjohnson      37210   0.0  4.5 499686096 379360   ??  Ss    9:10PM   0:14.02 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37209   0.0  0.0 426953712   3392   ??  Ss    9:10PM   0:00.41 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
-ericjohnson      37161   0.0  1.0 499744480  80368   ??  Ss    9:06PM   0:20.14 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37145   0.0  1.3 500410480 105600   ??  Ss    9:05PM   1:31.60 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      37100   0.0  0.1 427334496  10448   ??  S     9:03PM   0:02.65 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
-ericjohnson      37021   0.0  0.2 427119568  12640   ??  S     7:32PM   0:00.83 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
-ericjohnson      36995   0.0  0.2 413113552  15104   ??  S     7:01PM   0:00.24 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:45262 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {6081078d-cabf-493c-8094-d183385376b7} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.146785672 53 tab
-ericjohnson      36936   0.0  0.2 413120720  14944   ??  S     5:52PM   0:00.25 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:45262 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {933aeda2-517e-4219-83df-1b507a34cbc6} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1766386068 52 tab
-ericjohnson      36904   0.0  0.2 413112528  14432   ??  S     5:05PM   0:00.14 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:45262 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {1786af59-bc9d-4e7f-8083-a598c9efccda} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1187155046 51 tab
-_netbios         36870   0.0  0.0 426917104   2816   ??  SNs   4:34PM   0:00.31 /usr/sbin/netbiosd
-ericjohnson      36722   0.0  0.1 426976480   8672   ??  Ss    4:10PM   0:01.54 /System/Applications/Messages.app/Contents/PlugIns/Messages Assistant Extension.appex/Contents/MacOS/Messages Assistant Extension -AppleLanguages ("en-US")
-root             36719   0.0  0.0 426917056   3248   ??  Ss    4:10PM   0:00.52 /usr/libexec/nesessionmanager
-ericjohnson      36695   0.0  0.1 426959888  11568   ??  S     4:10PM   0:00.63 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
-ericjohnson      36556   0.0  0.3 427152240  25456   ??  S     3:50PM   0:09.48 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
-root             36533   0.0  0.2 426976080  14336   ??  Ss    3:50PM   0:02.55 /usr/libexec/coreduetd
-ericjohnson      36527   0.0  0.2 426974592  18352   ??  S     3:49PM   0:10.08 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
-ericjohnson      36517   0.0  0.1 426962512  12144   ??  S     3:48PM   0:00.28 /usr/libexec/neagent
-root             36501   0.0  0.0 426950192   3568   ??  Ss    3:46PM   0:00.13 /usr/libexec/mobileactivationd
-ericjohnson      36500   0.0  0.3 426965104  23616   ??  S     3:46PM   0:03.11 /usr/libexec/knowledge-agent
-ericjohnson      36493   0.0  0.1 426949776   8976   ??  S     3:45PM   0:01.12 /System/Library/Frameworks/Translation.framework/translationd
-ericjohnson      36484   0.0  0.0 426916704   1104   ??  Ss    3:45PM   0:00.28 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
-root             36455   0.0  0.1 426965840   8576   ??  Ss    3:44PM   0:28.66 /usr/libexec/mobileassetd
-root             36447   0.0  0.1 426956320   9104   ??  Ss    3:44PM   0:03.60 /usr/libexec/wifip2pd
-ericjohnson      36437   0.0  0.0 410182048   2400   ??  Ss    3:43PM   0:00.07 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
-ericjohnson      36436   0.0  0.1 426929792  11408   ??  Ss    3:43PM   0:01.09 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
-ericjohnson      36433   0.0  0.2 426980576  14832   ??  S     3:43PM   0:02.62 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
-root             36432   0.0  0.1 426950128   5280   ??  Ss    3:43PM   0:00.97 /usr/libexec/nehelper
-ericjohnson      36410   0.0  0.1 427083488  10928   ??  S     3:43PM   0:03.08 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
-ericjohnson      36398   0.0  0.1 427058576  10992   ??  S     3:43PM   0:00.49 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
-root             36392   0.0  0.1 426953824   8800   ??  Ss    3:43PM   0:02.56 /usr/libexec/rtcreportingd
-ericjohnson      36390   0.0  0.1 426950800   5104   ??  S     3:43PM   0:00.80 /usr/libexec/swcd
-ericjohnson      36377   0.0  0.2 426955168  14288   ??  S     3:42PM   0:04.51 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
-ericjohnson      36373   0.0  0.3 427001072  25648   ??  S     3:42PM   0:10.00 /usr/libexec/duetexpertd
-_fpsd            36353   0.0  0.1 426919840   4368   ??  Ss    3:38PM   0:00.86 /System/Library/PrivateFrameworks/CoreADI.framework/adid
-ericjohnson      36338   0.0  0.1 426968208   6288   ??  S     3:38PM   1:05.18 /System/Library/Frameworks/Contacts.framework/Support/contactsd
-ericjohnson      36316   0.0  0.3 427365216  23072   ??  S     3:35PM   0:03.34 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
-ericjohnson      36155   0.0  0.1 426950752   7376   ??  S     3:11PM   0:00.59 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
-ericjohnson      36142   0.0  0.1 426951728   7008   ??  S     3:11PM   0:04.89 /usr/libexec/triald
-_biome           36141   0.0  0.1 426950304   7712   ??  Ss    3:11PM   0:00.57 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
-ericjohnson      36120   0.0  0.1 411744800  12336   ??  Ss    3:10PM   0:02.04 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
-ericjohnson      36118   0.0  0.1 426952096   6672   ??  S     3:10PM   0:00.33 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
-ericjohnson      35883   0.0  1.6 499807840 131936   ??  Ss    2:48PM   0:17.71 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      35846   0.0  0.1 410916400  10960   ??  S     2:35PM   0:00.27 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -sandboxingKind 1 -prefsHandle 0:50000 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {5a8dfd4a-2c58-4cc5-903c-cce0081c0a3e} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.696594570 31 utility
-ericjohnson      34983   0.0  0.1 410918304   8368   ??  S    12:27PM   0:00.27 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -sandboxingKind 0 -prefsHandle 0:49680 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {144ce270-66e2-4559-818e-eeadf452267d} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.436815557 9 utility
-ericjohnson      34982   0.0  0.5 413218672  45808   ??  S    12:27PM   0:13.40 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:38270 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {e8621de1-f5fa-4774-a89f-8b5e8a182a2e} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.188180058 8 tab
-ericjohnson      34901   0.0  0.1 410921392   7872   ??  S    12:08PM   0:00.32 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -prefsHandle 0:38232 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {d055b9b7-1d3f-463c-b942-61b764325e14} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1468404404 4 rdd
-ericjohnson      34900   0.0  0.2 430287344  15744   ??  S    12:08PM   0:09.68 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:38232 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {5308ee9f-570f-4494-a562-ee30f0803f39} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1890796579 3 tab
-ericjohnson      34899   0.0  0.2 411721280  13200   ??  S    12:08PM   2:21.27 /Applications/Firefox.app/Contents/MacOS/gpu-helper.app/Contents/MacOS/Firefox GPU Helper -parentBuildID 20260403140140 -prefsHandle 0:38098 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {903b98df-2375-42b1-b145-54b95af6af36} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.657996141 2 gpu
-ericjohnson      34898   0.0  0.1 410873136   7216   ??  S    12:08PM   0:00.30 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -prefsHandle 0:38049 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {e5a18ee5-3666-44de-983c-6f52f1d13c1f} -parentPid 34892 -crashReporter gecko-crash-server-pipe.34892 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.90183583 1 socket
-ericjohnson      34897   0.0  0.0 410596848    288   ??  S    12:08PM   0:00.02 /Applications/Firefox.app/Contents/MacOS/crashhelper 34892 gecko-crash-server-pipe.34892 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/TemporaryItems/ org.mozilla.crashhelper.572686866492333278
-ericjohnson      34797   0.0  0.2 427309200  17600   ??  Ss   11:53AM   0:02.29 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
-ericjohnson      34795   0.0  0.9 435252752  78128   ??  Ss   11:53AM   2:09.17 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
-ericjohnson      34794   0.0  0.7 431799712  55088   ??  Ss   11:53AM   1:24.91 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
-ericjohnson      34789   0.0  2.2 434364976 183584   ??  S    11:53AM   4:42.10 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
-ericjohnson      34001   0.0  0.3 1596763952  22848   ??  S    10:56AM   0:49.12 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
-ericjohnson      33827   0.0  0.4 1596780752  30944   ??  S    10:40AM   0:09.89 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
-ericjohnson      33818   0.0  2.6 1603375056 214608   ??  S    10:40AM   5:45.53 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration, --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1775562074415594 --launch-time-ticks=107968506250 --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:281cdbbd-ea50-470b-a334-47c6a2694cc6 --seatbelt-client=62
-ericjohnson      33817   0.0  0.2 443971344  14752   ??  S    10:40AM   0:03.50 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=34
-ericjohnson      33816   0.0  0.6 444281792  46672   ??  S    10:40AM   2:05.17 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=34
-ericjohnson      33815   0.0  0.0 443746960   2576   ??  S    10:40AM   0:00.57 /var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/ericjohnson/Library/Application Support/Code/Crashpad --url=appcenter://code?aid=de75e3cc-e22f-4f42-a03f-1409c21d8af8&uid=fafbd25d-7d96-4487-96d4-ddbaa2d55f7b&iid=fafbd25d-7d96-4487-96d4-ddbaa2d55f7b&sid=fafbd25d-7d96-4487-96d4-ddbaa2d55f7b --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.93.0 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=30.4.0 --handshake-fd=22
-ericjohnson      33813   0.0  1.4 1597535728 115280   ??  S    10:40AM   1:46.17 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/MacOS/Electron
-root             33478   0.0  0.2 426966944  20032   ??  Ss    9:38AM   1:33.89 /usr/libexec/PerfPowerServices
-ericjohnson      33050   0.0  0.6 427099568  47808   ??  Ss   Tue07PM   0:43.76 /System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2 -AppleLanguages ("en-US")
-ericjohnson      31241   0.0  0.1 427004240   8592   ??  S    Mon11PM   0:00.40 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
-ericjohnson      28520   0.0  0.1 426953488   7488   ??  S    Mon02PM   0:52.97 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
-ericjohnson      28446   0.0  0.4 427341088  31136   ??  S    Mon02PM   7:28.80 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
-ericjohnson      28411   0.0  0.2 426974368  15728   ??  S    Mon02PM   0:19.28 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
-ericjohnson      27946   0.0  0.1 427126640   7936   ??  S    Mon01PM   0:00.89 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
-ericjohnson      27104   0.0  0.1 426951584  10480   ??  S    Mon11AM   0:11.79 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
-root             27074   0.0  0.1 426950592   5520   ??  Ss   Mon11AM   0:07.27 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
-ericjohnson      27062   0.0  0.1 411766096  11408   ??  S    Mon11AM   0:04.92 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
-_audiomxd        24213   0.0  0.0 426916640   1632   ??  S    Sat10PM   0:02.18 /usr/sbin/distnoted agent
-ericjohnson      22374   0.0  0.1 427404112  10752   ??  Ss   Fri10AM   0:11.04 /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/PlugIns/AirDrop.appex/Contents/MacOS/AirDrop -AppleLanguages ("en-US")
-ericjohnson      22372   0.0  0.1 427380192  10464   ??  Ss   Fri10AM   0:09.21 /System/Library/PrivateFrameworks/ShareKit.framework/Versions/A/PlugIns/ShareSheetUI.appex/Contents/MacOS/ShareSheetUI -AppleLanguages ("en-US")
-ericjohnson      21918   0.0  0.0 411339968   2976   ??  Ss   Thu10PM   0:24.44 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/diskimages-helper -uuid AA589B99-A1F6-4421-85D4-10A5465B360F -post-exec 5
-root             21916   0.0  0.0 426915808   1920   ??  Ss   Thu10PM   0:00.21 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/hdiejectd
-ericjohnson      20142   0.0  0.1 426960176   6080   ??  S    Thu10PM   0:03.28 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
-ericjohnson      18118   0.0  0.7 427770528  56448   ??  S    Thu10PM   2:23.10 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
-root             16393   0.0  0.0 426916896   2000   ??  Ss   Thu07PM   0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdsync -s mdworker-scan -c MDSSyncScanWorker -m com.apple.metadata.mds.scan
-ericjohnson      15396   0.0  0.1 426950400   4912   ??  Ss   Thu05PM   0:00.71 /System/Applications/Mail.app/Contents/PlugIns/com.apple.mail.SpotlightIndexExtension.appex/Contents/MacOS/com.apple.mail.SpotlightIndexExtension -AppleLanguages ("en-US")
-ericjohnson      14850   0.0  0.0 426912816   2160   ??  S    Thu03PM   0:00.09 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
-ericjohnson      14407   0.0  0.1 426952240   6304   ??  S    Thu03PM   0:02.77 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
-root             14363   0.0  0.0 426916672   2144   ??  Ss   Thu03PM   0:01.62 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
-ericjohnson      14188   0.0  0.2 426964256  12784   ??  S    Thu02PM   1:23.45 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
-_neuralengine     8085   0.0  0.0 426916640   1568   ??  S     1Apr26   0:03.85 /usr/sbin/distnoted agent
-ericjohnson       7926   0.0  0.0 426916592   3280   ??  S     1Apr26   0:04.96 /usr/sbin/BTLEServerAgent
-ericjohnson       7857   0.0  0.1 426958592   7568   ??  S     1Apr26   0:08.45 /usr/libexec/tipsd
-ericjohnson       7795   2.0  0.1 427018784   6160   ??  S     1Apr26   0:05.80 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
-ericjohnson       6312   3.0  0.1 426950784   4512   ??  S     1Apr26   0:02.00 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
-root              3442   4.0  0.0 426916720   1344   ??  Ss   31Mar26   0:00.02 /usr/libexec/taskgated
-ericjohnson       3384   0.0  0.1 411184256   6032   ??  S    31Mar26   0:05.93 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
-_modelmanagerd    3151   0.0  0.1 427002800   4752   ??  Ss   31Mar26   0:30.00 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
-_modelmanagerd    3149   0.0  0.0 426916640   1568   ??  S    31Mar26   0:04.17 /usr/sbin/distnoted agent
-_modelmanagerd    3150   0.0  0.1 427054144   4768   ??  Ss   31Mar26   0:55.70 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
-ericjohnson       3141   0.0  0.0 426952912   2384   ??  S    31Mar26   0:11.29 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
-root              2862   0.0  0.1 426952208   5712   ??  Ss   31Mar26   0:06.62 /usr/libexec/wifivelocityd
+root             43605  35.8  0.4 426952256  33072   ??  Ss    6:35PM   0:03.67 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+ericjohnson        691   4.0  0.2 426994128  16304   ??  S    31Mar26   1:13.43 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+root               458   3.9  0.2 427049184  15520   ??  Ss   31Mar26   3:11.54 /usr/libexec/syspolicyd
+_windowserver      377   3.8  1.0 413352400  79760   ??  Rs   31Mar26 161:20.41 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+ericjohnson      43684   3.8  1.2 412275920  98784   ??  S     7:12PM   0:11.49 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+ericjohnson      44299   2.4  0.0 410734000   2048 s001  S+    8:04PM   0:00.01 /bin/bash ./Task.sh
+_trustd            392   2.0  0.1 426966384  10032   ??  Ss   31Mar26   4:00.53 /usr/libexec/trustd
+ericjohnson      41348   1.4  1.9 1872527024 160640   ??  S    12:30PM   5:23.03 /Applications/Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/MacOS/Discord Helper (Renderer) --type=renderer --user-data-dir=/Users/ericjohnson/Library/Application Support/discord --standard-schemes=disclip --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --streaming-schemes=disclip --app-path=/Applications/Discord.app/Contents/Resources/app.asar --no-sandbox --no-zygote --enable-blink-features=EnumerateDevices,AudioOutputDevices --autoplay-policy=no-user-gesture-required --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1775628759244906 --launch-time-ticks=134260105097 --shared-files --field-trial-handle=1718379636,r,14450075130900628687,17801995108350312362,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MacWebContentsOcclusion,MediaSessionService,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-node-leakage-in-renderers
+_driverkit         507   0.7  0.4 426919504  36784   ??  Ss   31Mar26  20:40.53 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000b13 com.apple.DriverKit-AppleBCMWLAN
+root               369   0.6  0.2 426979888  19488   ??  Ss   31Mar26  12:45.39 /usr/sbin/bluetoothd
+root               307   0.6  0.2 427049968  14288   ??  Ss   31Mar26   8:46.79 /usr/libexec/logd
+ericjohnson        557   0.5  0.3 411814080  23088   ??  S    31Mar26   6:19.72 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+root                 1   0.5  0.2 426853216  13056   ??  Ss   31Mar26  15:01.70 /sbin/launchd
+_coreaudiod        397   0.3  0.1 426992080   6368   ??  Ss   31Mar26   7:06.02 /usr/sbin/coreaudiod
+_nearbyd           693   0.3  0.1 426962544   8576   ??  Ss   31Mar26   3:07.08 /usr/libexec/nearbyd
+ericjohnson      43077   0.3  0.1 426958512  11600   ??  S     1:50PM   0:02.24 /usr/libexec/milod
+_networkd          465   0.3  0.1 426967280   9504   ??  Ss   31Mar26   2:08.53 /usr/libexec/symptomsd
+_mdnsresponder     461   0.3  0.2 427043568  14272   ??  Ss   31Mar26   6:20.80 /usr/sbin/mDNSResponder
+ericjohnson      37276   0.2  0.1 411398016  10624   ??  S     9:22PM   0:15.32 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+root               382   0.2  0.2 426965152  14592   ??  Ss   31Mar26  11:15.74 /usr/libexec/runningboardd
+ericjohnson      44018   0.1  0.1 410921456   4528 s001  S     7:54PM   0:00.19 -zsh
+ericjohnson      43824   0.1  0.8 1596785984  63584   ??  S     7:37PM   0:06.79 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+ericjohnson      41338   0.1  0.8 1865753456  67472   ??  S    12:30PM   0:30.61 /Applications/Discord.app/Contents/MacOS/Discord
+ericjohnson        692   0.1  0.2 427399008  19312   ??  S    31Mar26   4:59.05 /usr/libexec/sharingd
+root               386   0.1  0.2 426956992  15152   ??  Ss   31Mar26  35:52.45 /usr/libexec/airportd
+ericjohnson      43825   0.0  0.0 410172832   1760   ??  Ss    7:37PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+ericjohnson      43823   0.0  0.4 1596780304  34384   ??  S     7:37PM   0:00.45 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+ericjohnson      43814   0.0  0.0 410443984   2304   ??  Ss    7:36PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+ericjohnson      43812   0.0  0.1 431504464  10496   ??  Ss    7:36PM   0:00.14 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+ericjohnson      43811   0.0  0.4 431393088  30192   ??  Ss    7:36PM   0:00.29 /System/Library/ExtensionKit/Extensions/WebThumbnailExtension.appex/Contents/MacOS/WebThumbnailExtension
+ericjohnson      43810   0.0  0.1 426963840  10912   ??  Ss    7:36PM   0:00.12 /System/Library/ExtensionKit/Extensions/OfficeThumbnailExtension.appex/Contents/MacOS/OfficeThumbnailExtension
+ericjohnson      43803   0.0  0.2 411434896  18880   ??  S     7:36PM   0:00.18 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+ericjohnson      43738   0.0  0.1 426951360   5984   ??  Ss    7:19PM   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
+ericjohnson      43737   0.0  0.0 426949904   2704   ??  Ss    7:19PM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+ericjohnson      43736   0.0  0.0 426949904   2704   ??  Ss    7:19PM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+ericjohnson      43735   0.0  0.2 426993584  17904   ??  Ss    7:19PM   0:00.06 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/QLPreviewGenerationExtension.appex/Contents/MacOS/QLPreviewGenerationExtension -AppleLanguages ("en", "en-US")
+ericjohnson      43725   0.0  0.3 499272288  23360   ??  Ss    7:18PM   0:00.20 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+ericjohnson      43723   0.0  6.2 499815168 516096   ??  Ss    7:18PM   0:23.26 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+ericjohnson      43720   0.0  0.1 426965392  11472   ??  S     7:17PM   0:00.23 /usr/libexec/adprivacyd
+ericjohnson      43701   0.0  0.0 426905952   3536   ??  Ss    7:14PM   0:00.06 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+root             43672   0.0  0.0 426953696   2816   ??  Ss    7:12PM   0:00.13 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+ericjohnson      43667   0.0  0.0 410163616   1696   ??  Ss    7:11PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root             43651   0.0  0.0 426916224   1344   ??  Ss    7:11PM   0:00.04 /usr/libexec/applekeystored
+ericjohnson      43636   0.0  0.1 426957408   8208   ??  S     6:53PM   0:00.32 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+ericjohnson      43626   0.0  0.1 426957920  10256   ??  S     6:53PM   0:00.27 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+ericjohnson      43624   0.0  0.2 411225904  17024   ??  Ss    6:53PM   0:01.33 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+ericjohnson      43621   0.0  0.3 427000352  23888   ??  S     6:52PM   0:07.21 /usr/libexec/duetexpertd
+ericjohnson      43620   0.0  0.1 426949632   6816   ??  S     6:52PM   0:00.14 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+_netbios         43619   0.0  0.0 426950848   2608   ??  SNs   6:52PM   0:00.29 /usr/sbin/netbiosd
+_captiveagent    43618   0.0  0.1 426951216   5536   ??  Ss    6:52PM   0:00.11 /usr/libexec/captiveagent
+root             43609   0.0  0.0 426913024   1744   ??  Ss    6:35PM   0:00.02 /System/Library/CoreServices/ReportCrash daemon
+root             43583   0.0  0.0 426954336   4128   ??  Ss    5:41PM   0:00.12 /usr/libexec/symptomsd-diag
+root             43582   0.0  0.0 426917920   3936   ??  Ss    5:41PM   0:00.89 /usr/libexec/ASPCarryLog
+ericjohnson      43578   0.0  0.2 426966176  12752   ??  S     5:41PM   0:00.31 /System/Library/PrivateFrameworks/OnDeviceStorage.framework/Support/amsondevicestoraged
+root             43570   0.0  0.1 427058400   4800   ??  S     4:43PM   0:00.06 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+root             43569   0.0  0.1 426962016   7376   ??  S     4:43PM   0:00.02 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+root             43551   0.0  0.1 426951488   6624   ??  Ss    3:46PM   0:00.16 /usr/libexec/audioanalyticsd
+ericjohnson      43550   0.0  0.1 426917408   7008   ??  S     3:46PM   0:01.01 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/ModelCatalogAgent
+ericjohnson      43549   0.0  0.1 426946064   4992   ??  S     3:46PM   0:00.06 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+root             43548   0.0  0.1 426951488   6768   ??  Ss    3:46PM   0:00.23 /usr/libexec/ospredictiond
+ericjohnson      43547   0.0  0.1 426916768   5664   ??  S     3:46PM   0:00.06 /usr/libexec/feedbackd
+root             43542   0.0  0.1 426950704   7408   ??  Ss    3:46PM   0:01.37 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+ericjohnson      43541   0.0  0.2 427002640  14368   ??  S     3:46PM   0:01.09 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+ericjohnson      43540   0.0  0.2 411209776  13616   ??  Ss    3:46PM   0:00.64 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+ericjohnson      43539   0.0  0.2 426971408  13840   ??  Ss    3:45PM   0:00.55 /System/Applications/Messages.app/Contents/PlugIns/Messages Assistant Extension.appex/Contents/MacOS/Messages Assistant Extension -AppleLanguages ("en-US")
+ericjohnson      43538   0.0  0.1 426981120   7504   ??  S     3:45PM   0:00.10 /usr/libexec/textunderstandingd
+ericjohnson      43537   0.0  0.1 426957792  10032   ??  S     3:45PM   0:01.45 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+ericjohnson      43535   0.0  0.3 410813792  22128   ??  S     3:45PM   0:03.51 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+ericjohnson      43534   0.0  0.1 426963200  10016   ??  S     3:45PM   0:00.16 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+ericjohnson      43533   0.0  0.1 426950768   6944   ??  S     3:45PM   0:00.10 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+ericjohnson      43520   0.0  0.0 426954048   3072   ??  S     3:45PM   0:00.82 /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app/Contents/MacOS/IMTransferAgent
+ericjohnson      43519   0.0  0.0 426950864   2752   ??  S     3:45PM   0:00.77 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+ericjohnson      43518   0.0  0.0 410622464   1296   ??  S     3:45PM   0:00.05 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+ericjohnson      43517   0.0  0.0 426912608   2464   ??  S     3:45PM   0:00.03 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+ericjohnson      43516   0.0  0.0 410754912   3520   ??  Ss    3:45PM   0:00.08 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+ericjohnson      43515   0.0  0.0 426917712    160   ??  Ss    3:45PM   0:00.18 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+root             43513   0.0  0.1 426955872   7968   ??  Ss    3:45PM   0:00.26 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+root             43507   0.0  0.0 410622400   3312   ??  Ss    3:45PM   0:00.04 /System/Library/PrivateFrameworks/FindMyDevice.framework/XPCServices/FindMyDeviceSharedConfigurationXPCService.xpc/Contents/MacOS/FindMyDeviceSharedConfigurationXPCService
+root             43500   0.0  0.0 426950848   2736   ??  Ss    3:45PM   0:00.81 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root             43499   0.0  0.0 410621904   1328   ??  Ss    3:45PM   0:00.03 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+ericjohnson      43414   0.0  0.1 426951952   9344   ??  S     2:47PM   0:00.13 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+_softwareupdate  43400   0.0  0.0 410622432   1296   ??  S     2:45PM   0:00.02 /System/Library/PrivateFrameworks/Install.framework/Frameworks/DistributionKit.framework/Versions/A/XPCServices/DistributionHelper.xpc/Contents/MacOS/DistributionHelper
+_softwareupdate  43389   0.0  0.0 426916720   1920   ??  S     2:45PM   0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+_softwareupdate  43386   0.0  0.0 426916816   2736   ??  S     2:45PM   0:00.27 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_softwareupdate  43385   0.0  0.3 431535664  24864   ??  Ss    2:45PM   0:00.40 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_nsurlsessiond   43384   0.0  0.0 411286528   3184   ??  Ss    2:45PM   0:00.26 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.privileged.xpc/Contents/MacOS/com.apple.StreamingUnzipService.privileged
+_assetcache      43383   0.0  0.1 426952080   6400   ??  Ss    2:45PM   0:00.14 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+root             43381   0.0  0.1 426953104   4336   ??  Ss    2:45PM   0:00.05 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777234.54827328.xpc/Contents/MacOS/com.apple.NRD.UpdateBrainService
+root             43382   0.0  0.0 426950528   2928   ??  Ss    2:45PM   0:00.05 /usr/libexec/xpcroleaccountd -launchd
+_softwareupdate  43380   0.0  0.1 426952976   7264   ??  Ss    2:45PM   0:00.12 /usr/libexec/NRDUpdated
+ericjohnson      43379   0.0  0.0 426912032   2240   ??  S     2:45PM   0:00.02 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+root             43372   0.0  0.0 426924352   2704   ??  Ss    2:45PM   0:00.06 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+root             43371   0.0  0.1 426950544   6512   ??  Ss    2:45PM   0:00.19 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+ericjohnson      43370   0.0  0.0 426912624   2368   ??  S     2:45PM   0:00.05 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+_assetcache      43369   0.0  0.1 426952816   4704   ??  Ss    2:45PM   0:00.15 /usr/libexec/AssetCache/AssetCache
+_audiomxd        43364   0.0  0.0 426916672   1168   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+_nsurlsessiond   43358   0.0  0.0 426916672   1200   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+_modelmanagerd   43362   0.0  0.0 426916672   1168   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+_neuralengine    43361   0.0  0.0 426916672   1168   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+_rmd             43359   0.0  0.0 426916672   1168   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+_softwareupdate  43360   0.0  0.0 426916688   1648   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+_applepay        43363   0.0  0.0 426916688   1168   ??  S     2:45PM   0:00.04 /usr/sbin/cfprefsd agent
+root             43349   0.0  0.0 426916704   3072   ??  Ss    2:45PM   0:00.04 /usr/libexec/betaenrollmentd
+ericjohnson      43348   0.0  0.1 426916736   5808   ??  S     2:45PM   0:00.07 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+ericjohnson      43345   0.0  0.1 426966272  10560   ??  S     2:45PM   0:00.10 /usr/libexec/betaenrollmentagent
+root             43347   0.0  0.0 426916704   2096   ??  Ss    2:45PM   0:00.48 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+ericjohnson      43340   0.0  0.1 426949856   7216   ??  S     2:45PM   0:00.04 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+ericjohnson      43339   0.0  0.1 426965536   8592   ??  S     2:45PM   0:00.12 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+ericjohnson      43338   0.0  0.1 426968144  11312   ??  S     2:45PM   0:00.44 cloudphotod
+ericjohnson      43337   0.0  0.1 426916768   6784   ??  S     2:45PM   0:00.15 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+ericjohnson      43335   0.0  0.2 426979472  13904   ??  S     2:45PM   0:01.71 /usr/libexec/transparencyd
+ericjohnson      43334   0.0  0.1 426916384   5024   ??  S     2:45PM   0:00.07 /usr/libexec/findmydevice-user-agent
+ericjohnson      43333   0.0  0.1 410766032   6384   ??  S     2:45PM   0:00.08 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+ericjohnson      43332   0.0  0.1 426984880   9536   ??  S     2:45PM   0:00.23 /usr/libexec/findmylocateagent
+ericjohnson      43331   0.0  0.2 427016368  17760   ??  S     2:45PM   0:01.58 /usr/libexec/studentd
+root             43330   0.0  0.1 426965040  12304   ??  Ss    2:45PM   0:00.39 /usr/libexec/findmydeviced
+ericjohnson      43324   0.0  0.2 426966800  13728   ??  S     2:45PM   0:00.64 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+ericjohnson      43323   0.0  0.1 426951072   8016   ??  S     2:45PM   0:00.07 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+ericjohnson      43322   0.0  0.1 426953568   9072   ??  S     2:45PM   0:00.33 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+ericjohnson      43311   0.0  0.0 426953712   2784   ??  Ss    2:41PM   0:00.04 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+_spotlight       43293   0.0  0.1 426954288   7392   ??  S     2:37PM   0:00.36 /usr/libexec/trustd --agent
+ericjohnson      43282   0.0  0.1 427001616  10208   ??  S     2:37PM   0:00.50 /usr/libexec/naturallanguaged
+ericjohnson      43263   0.0  0.1 426958608   9920   ??  S     2:37PM   0:00.31 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+_reportsystemmemory 43258   0.0  0.0 426950048   3024   ??  Ss    2:37PM   0:00.05 /System/Library/CoreServices/ReportSystemMemory
+ericjohnson      43227   0.0  0.3 413117280  22272   ??  S     2:26PM   0:00.09 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:45387 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {29a545fd-916f-4b83-ba2f-a248f6fb4d6d} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1526243627 20 tab
+ericjohnson      43226   0.0  0.3 413115232  22256   ??  S     2:26PM   0:00.09 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:45387 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {436d64ac-5ea1-4553-9684-10cd21e8e6a3} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.735771297 19 tab
+ericjohnson      43177   0.0  0.3 413126496  22240   ??  S     2:19PM   0:00.09 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:45387 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {e560b0fc-422e-4392-a608-bed7378ecec3} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1076032791 18 tab
+ericjohnson      43146   0.0  0.1 411419616   8480   ??  S     2:07PM   0:00.19 /System/Library/PrivateFrameworks/SkyLight.framework//Versions/A/Resources/AquaAppearanceHelper.app/Contents/MacOS/AquaAppearanceHelper
+root             43143   0.0  0.0 426916240   2304   ??  Ss    2:04PM   0:00.04 /usr/libexec/keybagd -t 15
+ericjohnson      43132   0.0  0.2 427000176  15328   ??  Ss    2:00PM   0:00.39 /System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension
+ericjohnson      43129   0.0  0.0 410660240   3632   ??  Ss    1:56PM   0:00.04 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+ericjohnson      43125   0.0  0.1 426955312  11376   ??  S     1:56PM   0:00.95 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+ericjohnson      43101   0.0  0.0 426913024   1904   ??  S     1:55PM   0:00.06 /System/Library/CoreServices/ReportCrash agent
+ericjohnson      43100   0.0  0.1 426950480   5952   ??  S     1:55PM   0:00.18 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+ericjohnson      43099   0.0  0.2 426958880  12688   ??  S     1:55PM   0:03.74 /usr/libexec/siriknowledged
+root             43083   0.0  0.1 426976272   9184   ??  Ss    1:50PM   0:02.09 /usr/libexec/storagekitd
+ericjohnson      43082   0.0  0.3 427397632  21200   ??  S     1:50PM   0:00.90 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+ericjohnson      43081   0.0  0.1 426949584   7008   ??  S     1:50PM   0:00.19 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+ericjohnson      43080   0.0  0.1 431347568  11600   ??  S     1:50PM   0:01.63 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+ericjohnson      43079   0.0  0.1 426958112  11584   ??  S     1:50PM   0:00.46 /usr/libexec/appleaccountd
+ericjohnson      43076   0.0  0.1 426956880  11040   ??  S     1:50PM   0:00.78 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+ericjohnson      43074   0.0  0.0 426916400   4064   ??  S     1:50PM   0:00.04 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+ericjohnson      43078   0.0  0.1 426963376   7408   ??  S     1:50PM   0:00.11 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+ericjohnson      43066   0.0  0.1 426953440   5072   ??  S     1:43PM   0:00.21 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+root             43058   0.0  0.0 426950432   3088   ??  Ss    1:43PM   0:00.12 /usr/libexec/mmaintenanced
+ericjohnson      43057   0.0  0.1 426930048   6992   ??  Ss    1:43PM   0:00.44 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root             43054   0.0  0.0 426949984   2512   ??  Ss    1:43PM   0:00.04 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root             43052   0.0  0.1 426950304   4400   ??  Ss    1:43PM   0:00.20 /usr/libexec/powerexperienced
+ericjohnson      43042   0.0  0.3 427309200  24400   ??  Ss    1:43PM   0:01.02 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+ericjohnson      43038   0.0  0.1 431276048   5856   ??  S     1:42PM   0:00.41 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+ericjohnson      43037   0.0  0.1 426952176  10992   ??  S     1:42PM   0:01.03 /System/Library/Frameworks/Translation.framework/translationd
+ericjohnson      43036   0.0  0.0 426916704    224   ??  Ss    1:42PM   0:00.10 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+ericjohnson      43032   0.0  0.0 426916752   3584   ??  S     1:42PM   0:00.09 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+ericjohnson      43031   0.0  0.0 426916720   2096   ??  S     1:42PM   0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+ericjohnson      43030   0.0  0.2 427197120  18752   ??  S     1:42PM   0:00.68 /System/Cryptexes/App/usr/libexec/SafariNotificationAgent
+ericjohnson      43028   0.0  0.1 426952656   9168   ??  S     1:42PM   0:00.82 /usr/libexec/swcd
+ericjohnson      43022   0.0  0.1 426954912   7056   ??  S     1:40PM   0:00.19 /usr/libexec/keyboardservicesd
+root             43016   0.0  0.0 426950192   3920   ??  Ss    1:39PM   0:00.20 /usr/libexec/mobileactivationd
+ericjohnson      43015   0.0  0.2 427003264  18224   ??  S     1:39PM   0:01.41 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+ericjohnson      42912   0.0  0.1 411052576  11536   ??  Ss    1:35PM   0:00.40 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+ericjohnson      42910   0.0  0.1 426952160   4608   ??  S     1:35PM   0:00.27 /usr/libexec/swtransparencyd
+root             42888   0.0  0.1 426950624   5088   ??  Ss    1:30PM   0:04.57 /usr/libexec/findmybeaconingd
+_hidd            42876   0.0  0.0 426916128   2160   ??  Ss    1:28PM   0:00.03 /usr/libexec/hidd
+root             42861   0.0  0.1 426950896   4832   ??  Ss    1:27PM   0:00.43 /usr/libexec/countryd
+root             42854   0.0  0.1 426950240   6832   ??  Ss    1:27PM   0:00.11 /usr/libexec/PowerUIAgent
+ericjohnson      42820   0.0  0.1 427058576  10064   ??  S     1:25PM   0:00.33 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+ericjohnson      42819   0.0  0.1 426965568   9984   ??  S     1:25PM   0:00.16 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+ericjohnson      42818   0.0  0.1 426958928   8112   ??  Ss    1:25PM   0:02.69 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+ericjohnson      42815   0.0  0.1 426951936   9792   ??  S     1:25PM   0:03.75 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+ericjohnson      42814   0.0  0.1 426964320   7216   ??  S     1:25PM   0:00.68 /usr/libexec/mlhostd
+_softwareupdate  42780   0.0  0.1 426952880   4352   ??  Ss    1:24PM   0:00.40 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+ericjohnson      42779   0.0  0.1 426957872   7264   ??  S     1:24PM   0:00.66 /System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+_softwareupdate  42778   0.0  0.1 431386592  11728   ??  Ss    1:24PM   0:04.81 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root             42743   0.0  0.0 426916352   1520   ??  Ss    1:23PM   0:01.36 /usr/libexec/sysmond
+ericjohnson      42666   0.0  0.1 426952096   7328   ??  S     1:21PM   0:00.25 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+_locationd       42663   0.0  0.1 426952720   4512   ??  S     1:21PM   0:00.25 /usr/libexec/trustd --agent
+_locationd       42659   0.0  0.0 426916688   1696   ??  S     1:21PM   0:00.06 /usr/sbin/cfprefsd agent
+root             42658   0.0  0.0 426950464   3024   ??  Ss    1:21PM   0:00.05 /usr/libexec/trustdFileHelper
+ericjohnson      42657   0.0  0.1 426986368   6688   ??  S     1:21PM   0:00.77 /usr/libexec/linkd
+_cmiodalassistants 42656   0.0  0.1 426952720   4512   ??  S     1:21PM   0:00.22 /usr/libexec/trustd --agent
+ericjohnson      42655   0.0  0.1 426963360   7376   ??  Ss    1:21PM   0:00.13 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+_cmiodalassistants 42654   0.0  0.0 426916688   1712   ??  S     1:21PM   0:00.05 /usr/sbin/cfprefsd agent
+_locationd       42651   0.0  0.1 427161920   7856   ??  S     1:21PM   0:00.92 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_cmiodalassistants 42650   0.0  0.1 426953248   7312   ??  S     1:21PM   0:00.56 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+ericjohnson      42649   0.0  0.2 426992432  13584   ??  S     1:21PM   0:01.08 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+ericjohnson      42648   0.0  0.1 426953248   7664   ??  S     1:21PM   0:01.16 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root             42644   0.0  0.1 426950480   7968   ??  Ss    1:21PM   0:00.63 /System/Library/CoreServices/osanalyticshelper server-init
+_fpsd            42643   0.0  0.1 426919840   4272   ??  Ss    1:21PM   0:01.66 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+ericjohnson      42642   0.0  0.2 411483680  14256   ??  Ss    1:21PM   0:03.89 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+ericjohnson      42637   0.0  0.1 426966672   9424   ??  S     1:21PM   0:45.04 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+ericjohnson      42636   0.0  0.2 426968944  16528   ??  S     1:21PM   0:02.53 /usr/libexec/knowledge-agent
+ericjohnson      42635   0.0  0.2 426971552  14560   ??  S     1:21PM   0:02.43 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+root             42633   0.0  0.0 426949792   4112   ??  Ss    1:21PM   0:00.22 /usr/libexec/powerdatad
+ericjohnson      42634   0.0  0.1 426961248  12272   ??  S     1:21PM   0:04.06 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+root             42632   0.0  0.2 426976512  16960   ??  Ss    1:21PM   0:05.22 /usr/libexec/coreduetd
+root             42628   0.0  0.0 426951824   3696   ??  Ss    1:20PM   0:00.92 /System/Library/CoreServices/TimeMachine/backupd
+root             42622   0.0  0.1 426957424   7376   ??  Ss    1:20PM   0:00.67 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+ericjohnson      42621   0.0  0.1 426975264   7616   ??  S     1:20PM   0:02.91 /usr/libexec/replayd
+ericjohnson      42617   0.0  0.2 426978304  13936   ??  S     1:19PM   0:00.84 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+_applepay        42615   0.0  0.1 426952176   5792   ??  Ss    1:19PM   0:00.62 /usr/libexec/nfcd
+ericjohnson      42614   0.0  0.1 427162672  10224   ??  S     1:19PM   0:00.73 /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+root             42598   0.0  0.0 410754320   1696   ??  Ss    1:19PM   0:00.07 /usr/libexec/online-auth-agent
+root             42597   0.0  0.1 426954112   7264   ??  Ss    1:19PM   0:04.58 /usr/libexec/rtcreportingd
+ericjohnson      42594   0.0  0.1 426950064   6256   ??  S     1:19PM   0:00.13 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+ericjohnson      42555   0.0  0.1 426963696  10208   ??  S     1:19PM   0:00.73 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+ericjohnson      42528   0.0  0.0 426916880   4192   ??  S     1:18PM   0:00.09 /usr/libexec/keychainsharingmessagingd
+root             42368   0.0  0.0 426950080   4096   ??  Ss    1:18PM   0:00.43 /usr/libexec/triald_system
+root             42360   0.0  0.0 426916704   3424   ??  Ss    1:18PM   0:00.18 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root             42359   0.0  0.0 426916704   3408   ??  Ss    1:18PM   0:00.17 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+ericjohnson      42348   0.0  0.2 426964976  14512   ??  S     1:18PM   0:08.01 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+root             42347   0.0  0.0 410789088   2656   ??  Ss    1:18PM   0:00.06 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+ericjohnson      41796   0.0  0.1 410907184  10480   ??  S    12:47PM   0:00.15 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -sandboxingKind 1 -prefsHandle 0:50185 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {225e0429-8800-4abc-9647-1c27ed1b246f} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.70943129 12 utility
+root             41772   0.0  0.1 426964016   4752   ??  Ss   12:46PM   0:00.23 /usr/sbin/systemsoundserverd
+ericjohnson      41597   0.0  0.3 1596742448  23344   ??  S    12:40PM   0:25.13 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+ericjohnson      41531   0.0  0.1 426919712   8032   ??  Ss   12:39PM   0:00.22 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+ericjohnson      41529   0.0  0.4 411249712  32736   ??  Ss   12:39PM   0:19.77 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+ericjohnson      41469   0.0  0.3 1596771536  26096   ??  S    12:39PM   0:06.37 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+ericjohnson      41463   0.0  1.6 1601187680 134288   ??  S    12:39PM   4:58.62 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration, --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1775628759253281 --launch-time-ticks=134815447183 --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:402e40c5-cc43-4886-8584-1f6f50ee16d0 --seatbelt-client=62
+ericjohnson      41461   0.0  0.2 443971344  14320   ??  S    12:39PM   0:01.91 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=34
+ericjohnson      41460   0.0  0.4 444238272  34736   ??  S    12:39PM   2:02.08 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,7608994608834807432,17003846576648512206,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=34
+ericjohnson      41459   0.0  0.0 443738256   3216   ??  S    12:39PM   0:00.41 /var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/ericjohnson/Library/Application Support/Code/Crashpad --url=appcenter://code?aid=de75e3cc-e22f-4f42-a03f-1409c21d8af8&uid=fafbd25d-7d96-4487-96d4-ddbaa2d55f7b&iid=fafbd25d-7d96-4487-96d4-ddbaa2d55f7b&sid=fafbd25d-7d96-4487-96d4-ddbaa2d55f7b --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.93.0 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=30.4.0 --handshake-fd=22
+ericjohnson      41455   0.0  1.1 1597401792  95344   ??  S    12:39PM   1:34.49 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/1010971B-C252-4A2E-8D2D-D33F60A8322D/d/Visual Studio Code.app/Contents/MacOS/Electron
+ericjohnson      41424   0.0  0.1 410925472  10592   ??  S    12:38PM   0:00.16 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -sandboxingKind 0 -prefsHandle 0:49813 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {94c1c072-2123-4d01-9217-d7362b230d5f} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1182429354 6 utility
+ericjohnson      41422   0.0  0.5 430288928  39584   ??  S    12:38PM   0:03.90 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:38430 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {05e51f08-0ea3-4b2c-9438-a2e54024c063} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1498455295 5 tab
+ericjohnson      41420   0.0  0.1 410922928  10176   ??  S    12:38PM   0:00.18 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -prefsHandle 0:38373 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {9bc46274-ee85-4777-bdbd-22a9bc271083} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.901258210 4 rdd
+ericjohnson      41419   0.0  0.5 413215552  39360   ??  S    12:38PM   0:08.49 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:38373 -prefMapHandle 1:287075 -jsInitHandle 2:156136 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260403140140 -ipcHandle 0 -initialChannelId {38e349e5-c211-44df-9cdb-f8325083b73e} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 3 -crashHelperRecv 0 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1183710350 3 tab
+ericjohnson      41418   0.0  0.1 410873136   9632   ??  S    12:38PM   0:00.16 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20260403140140 -prefsHandle 0:38118 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {8be11b6e-50c6-49bc-afcc-34f5c703689f} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1920916432 2 socket
+ericjohnson      41417   0.0  0.2 411540352  15120   ??  S    12:38PM   0:17.35 /Applications/Firefox.app/Contents/MacOS/gpu-helper.app/Contents/MacOS/Firefox GPU Helper -parentBuildID 20260403140140 -prefsHandle 0:38051 -prefMapHandle 1:287075 -sbStartup -sbAppPath /Applications/Firefox.app -ipcHandle 0 -initialChannelId {0368eb02-d369-4a62-af86-2948064d2384} -parentPid 41413 -crashReporter gecko-crash-server-pipe.41413 -crashHelperSend 2 -crashHelperRecv 0 -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/ericjohnson/Library/Application Support/Firefox/Profiles/mhjde9io.default-release org.mozilla.machname.1194056826 1 gpu
+ericjohnson      41416   0.0  0.0 410596848    384   ??  S    12:38PM   0:00.00 /Applications/Firefox.app/Contents/MacOS/crashhelper 41413 gecko-crash-server-pipe.41413 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/TemporaryItems/ org.mozilla.crashhelper.16799010262554968530
+ericjohnson      41413   0.0  1.3 416165120 109008   ??  S    12:38PM   0:58.87 /Applications/Firefox.app/Contents/MacOS/firefox
+ericjohnson      41397   0.0  0.2 444023440  20624   ??  S    12:34PM   0:00.77 /Applications/Obsidian.app/Contents/Frameworks/Obsidian Helper.app/Contents/MacOS/Obsidian Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/ericjohnson/Library/Application Support/obsidian --standard-schemes=app --secure-schemes=app --fetch-schemes=app --streaming-schemes=app --code-cache-schemes=app --shared-files --field-trial-handle=1718379636,r,12779698975001246368,15488836054476451745,262144 --enable-features=PdfUseShowSaveFilePicker,ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,SharedArrayBuffer --disable-features=MacWebContentsOcclusion,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --log-level=3 --seatbelt-client=34
+ericjohnson      41396   0.0  0.1 444232288  12352   ??  S    12:34PM   0:57.12 /Applications/Obsidian.app/Contents/Frameworks/Obsidian Helper (GPU).app/Contents/MacOS/Obsidian Helper (GPU) --type=gpu-process --user-data-dir=/Users/ericjohnson/Library/Application Support/obsidian --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,12779698975001246368,15488836054476451745,262144 --enable-features=PdfUseShowSaveFilePicker,ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,SharedArrayBuffer --disable-features=MacWebContentsOcclusion,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --log-level=3 --seatbelt-client=34
+ericjohnson      41395   0.0  0.5 1865820272  44032   ??  S    12:34PM   0:49.55 /Applications/Obsidian.app/Contents/MacOS/Obsidian
+ericjohnson      41352   0.0  0.1 444019136  11920   ??  S    12:30PM   0:00.77 /Applications/Discord.app/Contents/Frameworks/Discord Helper (Plugin).app/Contents/MacOS/Discord Helper (Plugin) --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-US --service-sandbox-type=none --message-loop-type-ui --user-data-dir=/Users/ericjohnson/Library/Application Support/discord --standard-schemes=disclip --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --streaming-schemes=disclip --shared-files --field-trial-handle=1718379636,r,14450075130900628687,17801995108350312362,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MacWebContentsOcclusion,MediaSessionService,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version
+ericjohnson      41351   0.0  0.1 443988000  11760   ??  S    12:30PM   0:00.91 /Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --message-loop-type-ui --user-data-dir=/Users/ericjohnson/Library/Application Support/discord --standard-schemes=disclip --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --streaming-schemes=disclip --shared-files --field-trial-handle=1718379636,r,14450075130900628687,17801995108350312362,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MacWebContentsOcclusion,MediaSessionService,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --seatbelt-client=73
+ericjohnson      41344   0.0  0.3 444015696  28688   ??  S    12:30PM   0:04.94 /Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/ericjohnson/Library/Application Support/discord --standard-schemes=disclip --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --streaming-schemes=disclip --shared-files --field-trial-handle=1718379636,r,14450075130900628687,17801995108350312362,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MacWebContentsOcclusion,MediaSessionService,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --seatbelt-client=35
+ericjohnson      41342   0.0  0.3 444442112  24416   ??  S    12:30PM   0:19.93 /Applications/Discord.app/Contents/Frameworks/Discord Helper (GPU).app/Contents/MacOS/Discord Helper (GPU) --type=gpu-process --user-data-dir=/Users/ericjohnson/Library/Application Support/discord --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,14450075130900628687,17801995108350312362,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MacWebContentsOcclusion,MediaSessionService,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --seatbelt-client=32
+ericjohnson      41341   0.0  0.0 443701744   1040   ??  S    12:30PM   0:00.03 /Applications/Discord.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/ericjohnson/Library/Application Support/discord/Crashpad --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=0.0.384 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=37.6.0 --handshake-fd=17
+ericjohnson      41330   0.0  0.1 426950016   4256   ??  S    12:29PM   0:00.08 /System/Library/CoreServices/rcd.app/Contents/MacOS/rcd
+ericjohnson      41208   0.0  0.1 426919200   7920   ??  Ss   10:06AM   0:00.26 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+ericjohnson      41206   0.0  0.5 411321632  39152   ??  Ss   10:06AM   0:03.96 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+ericjohnson      41196   0.0  0.2 427187328  16464   ??  Ss   10:06AM   0:00.52 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+ericjohnson      41191   0.0  0.6 432466160  53584   ??  Ss   10:06AM   0:31.91 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+ericjohnson      41190   0.0  0.5 431765232  40416   ??  Ss   10:06AM   0:21.93 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+ericjohnson      41185   0.0  1.6 433097648 137616   ??  S    10:06AM   1:46.94 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+ericjohnson      41122   0.0  0.1 427025904   9088   ??  S     9:56AM   0:00.76 /System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app/Contents/MacOS/LinkedNotesUIService
+root             40982   0.0  0.2 426967248  14816   ??  Ss    9:38AM   1:08.18 /usr/libexec/PerfPowerServices
+ericjohnson      40693   0.0  0.1 431519536  12160   ??  S     8:26AM   0:00.56 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+ericjohnson      40410   0.0  0.1 426964800  11648   ??  S     5:37AM   0:05.70 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+ericjohnson      40348   0.0  0.2 431553024  18176   ??  Ss    4:48AM   0:01.36 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+ericjohnson      40333   0.0  0.1 427149104  10240   ??  S     4:45AM   0:00.65 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+ericjohnson      40196   0.0  0.1 426977600  10704   ??  S    11:29PM   0:08.35 /usr/libexec/gamed
+ericjohnson      40149   0.0  0.0 410173856   2496   ??  Ss   11:03PM   0:00.11 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+ericjohnson      40126   0.0  0.1 426988624   6848   ??  S    11:03PM   0:02.57 /usr/libexec/secinitd
+ericjohnson      40052   0.0  0.1 411925888   8448   ??  S    10:49PM   0:00.44 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+ericjohnson      40037   0.0  0.1 411534672   8928   ??  Ss   10:48PM   0:01.31 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+ericjohnson      39754   0.0  0.1 426931264  11888   ??  Ss   10:46PM   0:02.91 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+ericjohnson      39725   0.0  0.1 426950432   5344   ??  S    10:46PM   0:00.65 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+ericjohnson      39706   0.0  0.1 426951344   5232   ??  S    10:46PM   0:03.45 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+root             39608   0.0  0.0 426916800   1744   ??  Ss   10:46PM   0:00.05 /usr/libexec/smd
+root             39605   0.0  0.0 411181712   3296   ??  Ss   10:46PM   0:00.65 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+root             39604   0.0  0.1 411187232   5056   ??  Ss   10:46PM   0:00.65 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+ericjohnson      39596   0.0  0.1 426950576   4448   ??  S    10:46PM   0:00.16 /System/Library/CoreServices/pbs
+ericjohnson      39590   0.0  0.1 426985168   6224   ??  S    10:46PM   0:00.32 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+ericjohnson      39585   0.0  0.1 426955472   6672   ??  S    10:46PM   0:00.35 /usr/libexec/dmd
+root             39570   0.0  0.0 426916384   1024   ??  Ss   10:46PM   0:00.19 /usr/libexec/logd_helper
+_iconservices    39559   0.0  0.1 426950464   4352   ??  Ss   10:46PM   0:00.07 /System/Library/CoreServices/iconservicesd
+ericjohnson      39558   0.0  0.0 426964832   4192   ??  Ss   10:46PM   0:00.14 /System/Library/ExtensionKit/Extensions/PackageThumbnailExtension.appex/Contents/MacOS/PackageThumbnailExtension
+ericjohnson      39557   0.0  0.1 426930048   6608   ??  Ss   10:46PM   0:00.30 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+ericjohnson      39556   0.0  0.2 427246128  19840   ??  S    10:46PM   0:01.22 /System/Library/CoreServices/iconservicesagent
+root             39549   0.0  0.0 426950816   3584   ??  Ss   10:46PM   0:01.03 /usr/libexec/nesessionmanager
+ericjohnson      39535   0.0  0.1 411429712   7552   ??  S    10:46PM   0:00.34 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+ericjohnson      39507   0.0  0.1 426964640   7264   ??  S    10:42PM   0:00.31 /System/Library/CoreServices/ScopedBookmarkAgent
+ericjohnson      39499   0.0  0.2 427497456  16560   ??  S    10:42PM   0:01.62 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+_neuralengine    39495   0.0  0.0 426950832   3600   ??  Ss   10:42PM   0:00.14 /usr/libexec/aneuserd
+ericjohnson      39482   0.0  0.1 426950320   4576   ??  S    10:42PM   0:00.25 /usr/libexec/inputanalyticsd
+ericjohnson      39481   0.0  0.4 427273024  33040   ??  S    10:42PM   0:22.42 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+ericjohnson      39465   0.0  0.1 426963312  12480   ??  S    10:42PM   0:01.27 /usr/libexec/pkd
+ericjohnson      39464   0.0  0.2 426957312  13872   ??  S    10:42PM   0:03.39 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+ericjohnson      39459   0.0  0.2 412016208  13616   ??  S    10:42PM   0:03.37 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+ericjohnson      39454   0.0  0.1 426967024   9312   ??  S    10:42PM   0:01.28 /usr/libexec/proactived
+ericjohnson      39452   0.0  0.1 426950752   5520   ??  S    10:42PM   0:00.62 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+ericjohnson      39399   0.0  0.1 426973152  10304   ??  S    10:36PM   0:06.58 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+ericjohnson      39360   0.0  2.7 427510432 224512   ??  S    10:35PM   1:48.73 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+root             39352   0.0  0.0 426916592   3232   ??  Ss   10:34PM   0:00.77 /usr/libexec/usermanagerd -t 15
+ericjohnson      39351   0.0  0.2 426969712  13328   ??  S    10:34PM   0:02.33 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+ericjohnson      39350   0.0  0.1 427126832   7168   ??  S    10:34PM   0:00.59 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+ericjohnson      39334   0.0  0.1 426984912   6592   ??  S    10:33PM   0:00.31 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+root             39024   0.0  0.0 426916416   3456   ??  Ss   10:00PM   0:00.84 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+ericjohnson      39008   0.0  0.1 426968080  12112   ??  S     9:57PM   0:04.63 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+root             38958   0.0  0.0 426950496   3152   ??  Ss    9:55PM   0:00.87 /usr/libexec/securityd_system
+root             38916   0.0  0.1 426953280   4848   ??  Ss    9:49PM   0:02.13 /usr/libexec/sandboxd
+ericjohnson      38890   0.0  0.1 426958160   8480   ??  S     9:49PM   0:03.08 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+root             37384   0.0  0.1 426951664   6624   ??  Ss    9:32PM   0:00.67 /usr/libexec/biometrickitd --launchd
+ericjohnson      37285   0.0  0.1 426986272   9488   ??  Ss    9:23PM   0:05.35 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+root             37283   0.0  0.0 426917744   1856   ??  Ss    9:22PM   0:00.24 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+ericjohnson      37278   0.0  0.0 426916816   3504   ??  S     9:22PM   0:02.58 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+ericjohnson      37268   0.0  0.1 410659968   4320   ??  S     9:21PM   0:01.50 /usr/libexec/SidecarRelay
+ericjohnson      36695   0.0  0.1 426958912   6848   ??  S    Wed04PM   0:01.40 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+ericjohnson      36527   0.0  0.2 426991344  13744   ??  S    Wed03PM   0:32.11 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+ericjohnson      36517   0.0  0.1 426962864  11088   ??  S    Wed03PM   0:01.10 /usr/libexec/neagent
+root             36455   0.0  0.1 426970384   6160   ??  Ss   Wed03PM   2:05.98 /usr/libexec/mobileassetd
+root             36447   0.0  0.1 426956320  11248   ??  Ss   Wed03PM   0:15.10 /usr/libexec/wifip2pd
+root             36432   0.0  0.1 426961648   6704   ??  Ss   Wed03PM   0:03.80 /usr/libexec/nehelper
+ericjohnson      36410   0.0  0.1 427084704   8128   ??  S    Wed03PM   0:06.19 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+ericjohnson      36316   0.0  0.2 427364096  17024   ??  S    Wed03PM   0:07.17 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+ericjohnson      36142   0.0  0.1 426952656   6240   ??  S    Wed03PM   0:18.22 /usr/libexec/triald
+_biome           36141   0.0  0.1 426950880   5616   ??  Ss   Wed03PM   0:02.49 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+ericjohnson      33050   0.0  0.7 427031984  56032   ??  Ss   Tue07PM   1:21.31 /System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2 -AppleLanguages ("en-US")
+ericjohnson      31241   0.0  0.1 427004240   7296   ??  S    Mon11PM   0:00.50 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+ericjohnson      28520   0.0  0.1 426966272   9312   ??  S    Mon02PM   1:24.41 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+ericjohnson      28411   0.0  0.2 426975072  13440   ??  S    Mon02PM   0:25.63 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+ericjohnson      27946   0.0  0.1 427126656   7312   ??  S    Mon01PM   0:01.07 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+ericjohnson      27104   0.0  0.1 426951584   8912   ??  S    Mon11AM   0:14.35 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+ericjohnson      27096   0.0  0.2 427048992  13008   ??  S    Mon11AM   3:43.94 /usr/libexec/networkserviceproxy
+root             27074   0.0  0.0 426950592   3744   ??  Ss   Mon11AM   0:09.70 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+ericjohnson      27062   0.0  0.1 411767216  10224   ??  S    Mon11AM   0:06.37 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+_audiomxd        24213   0.0  0.0 426916080   1616   ??  S    Sat10PM   0:02.79 /usr/sbin/distnoted agent
+ericjohnson      22374   0.0  0.1 427404128   8864   ??  Ss   Fri10AM   0:12.33 /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/PlugIns/AirDrop.appex/Contents/MacOS/AirDrop -AppleLanguages ("en-US")
+ericjohnson      22372   0.0  0.1 427380208   8592   ??  Ss   Fri10AM   0:10.47 /System/Library/PrivateFrameworks/ShareKit.framework/Versions/A/PlugIns/ShareSheetUI.appex/Contents/MacOS/ShareSheetUI -AppleLanguages ("en-US")
+ericjohnson      21918   0.0  0.0 411339968   2912   ??  Ss   Thu10PM   0:24.61 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/diskimages-helper -uuid AA589B99-A1F6-4421-85D4-10A5465B360F -post-exec 5
+root             21916   0.0  0.0 426915808   1920   ??  Ss   Thu10PM   0:00.26 /System/Library/PrivateFrameworks/DiskImages.framework/Resources/hdiejectd
+ericjohnson      20142   0.0  0.1 426960176   6480   ??  S    Thu10PM   0:03.72 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+ericjohnson      18118   0.0  0.6 427650176  46480   ??  S    Thu10PM   2:29.24 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+root             44300   0.0  0.0 410724368   2032 s001  R+    8:04PM   0:00.00 ps aux
+ericjohnson      15396   0.0  0.1 426950400   4672   ??  Ss    2Apr26   0:00.77 /System/Applications/Mail.app/Contents/PlugIns/com.apple.mail.SpotlightIndexExtension.appex/Contents/MacOS/com.apple.mail.SpotlightIndexExtension -AppleLanguages ("en-US")
+ericjohnson      14850   0.0  0.0 426912816   2160   ??  S     2Apr26   0:00.10 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
+ericjohnson      14407   0.0  0.1 426952240   6192   ??  S     2Apr26   0:03.13 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+root             14363   0.0  0.0 426916672   3248   ??  Ss    2Apr26   0:01.91 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+ericjohnson      14188   0.0  0.1 426965664  10560   ??  S     2Apr26   1:35.62 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+_neuralengine     8085   0.0  0.0 426916080   1552   ??  S     1Apr26   0:04.49 /usr/sbin/distnoted agent
+ericjohnson       7926   0.0  0.0 426916592   3264   ??  S     1Apr26   0:05.83 /usr/sbin/BTLEServerAgent
+ericjohnson       7857   0.0  0.1 426971376   9152   ??  S     1Apr26   0:09.93 /usr/libexec/tipsd
+ericjohnson       7795   0.0  0.1 427019360   4992   ??  S     1Apr26   0:06.45 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+ericjohnson       6312   0.0  0.1 426950784   4768   ??  S     1Apr26   0:02.19 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              3442   0.0  0.0 426916720   1344   ??  Ss   31Mar26   0:00.02 /usr/libexec/taskgated
+ericjohnson       3384   0.0  0.1 411184256   7728   ??  S    31Mar26   0:07.60 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+_modelmanagerd    3151   0.0  0.1 427002800   4816   ??  Ss   31Mar26   0:31.40 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
+_modelmanagerd    3149   0.0  0.0 426916080   1552   ??  S    31Mar26   0:04.79 /usr/sbin/distnoted agent
+_modelmanagerd    3150   0.0  0.1 427054160   4896   ??  Ss   31Mar26   0:58.75 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
+ericjohnson       3141   0.0  0.0 426952912   2336   ??  S    31Mar26   0:11.31 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+root              2862   0.0  0.1 426951648   5888   ??  Ss   31Mar26   0:07.32 /usr/libexec/wifivelocityd
 ericjohnson       2846   0.0  0.0 426846096    864   ??  S    31Mar26   0:00.08 /usr/bin/ssh-agent -l
-ericjohnson       2497   0.0  0.1 426959744   6512   ??  S    31Mar26   0:31.39 /System/Library/PrivateFrameworks/People.framework/peopled
-_rmd              1171   0.0  0.0 426916640   1568   ??  S    31Mar26   0:04.36 /usr/sbin/distnoted agent
-root              1075   0.0  0.0 426916144   2192   ??  Ss   31Mar26   0:00.06 /System/Library/CoreServices/CrashReporterSupportHelper server-init
-ericjohnson       1009   0.0  0.0 426917104   1904   ??  S    31Mar26   0:00.14 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
-ericjohnson       1025   0.0  0.1 414815280   7520   ??  S    31Mar26   0:13.20 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/managedcorespotlightd
-ericjohnson        901   0.0  0.1 426952112   6224   ??  S    31Mar26   0:07.13 /System/Library/CoreServices/diagnostics_agent
-root               991   0.0  0.0 426951920   3456   ??  S    31Mar26   0:02.95 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
-_audiomxd          990   0.0  0.1 426950528   5824   ??  Ss   31Mar26   0:02.63 /usr/libexec/audiomxd
-root               831   0.0  0.1 426954928   5376   ??  Ss   31Mar26   0:04.11 /System/Library/CoreServices/SubmitDiagInfo server-init
-ericjohnson        973   0.0  0.1 411138688   5392   ??  S    31Mar26   0:02.79 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s
-_fpsd              970   0.0  0.0 426936560   1872   ??  Ss   31Mar26   0:02.37 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
-ericjohnson        966   0.0  0.0 426955376   4176   ??  S    31Mar26   0:01.67 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
-_nsurlsessiond     961   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.44 /usr/sbin/distnoted agent
-_gamecontrollerd   922   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.47 /usr/sbin/distnoted agent
-ericjohnson        908   0.0  0.0 426916288   2448   ??  S    31Mar26   0:00.16 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
-ericjohnson        894   0.0  0.0 426950304   3248   ??  S    31Mar26   0:04.81 /System/Library/Image Capture/Support/icdd
-ericjohnson        889   0.0  0.1 427004288   9360   ??  S    31Mar26   0:15.99 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
-ericjohnson        888   0.0  0.1 426963456  12560   ??  S    31Mar26   0:31.04 /System/Library/PrivateFrameworks/HearingCore.framework/heard
-root               906   0.0  0.0 426916256   2240   ??  Ss   31Mar26   0:00.41 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
-ericjohnson        898   0.0  0.1 411126096   4544   ??  S    31Mar26   0:02.31 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
-ericjohnson        902   0.0  0.1 411444032   8944   ??  S    31Mar26   0:04.03 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
-_applepay          876   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.43 /usr/sbin/distnoted agent
-ericjohnson        749   0.0  0.2 426975248  17904   ??  S    31Mar26   0:54.23 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
-ericjohnson        869   0.0  0.1 426981344   8592   ??  S    31Mar26   0:31.40 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
-_driverkit         863   0.0  0.0 426851568    112   ??  Ss   31Mar26   0:00.39 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e22 com.apple.IOUserBluetoothSerialDriver
-_driverkit         862   0.0  0.0 426851568    112   ??  Ss   31Mar26   0:00.41 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e20 com.apple.IOUserBluetoothSerialDriver
-_driverkit         861   0.0  0.0 426851568    112   ??  Ss   31Mar26   0:00.45 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e1e com.apple.IOUserBluetoothSerialDriver
-ericjohnson        860   0.0  0.1 427345360   4608   ??  Ss   31Mar26   0:00.47 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension
-ericjohnson        855   0.0  0.1 426964336   7488   ??  SN   31Mar26   0:37.38 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
-root               846   0.0  0.0 426933184    976   ??  Ss   31Mar26   0:00.08 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
-ericjohnson        835   0.0  0.0 427015936   3776   ??  Ss   31Mar26   0:00.24 /System/Applications/Reminders.app/Contents/PlugIns/RemindersWidgetExtension.appex/Contents/MacOS/RemindersWidgetExtension
-ericjohnson        838   0.0  0.2 427142000  13392   ??  S    31Mar26   0:22.81 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
-ericjohnson        827   0.0  0.1 427091344   4592   ??  Ss   31Mar26   0:02.22 /System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget
-ericjohnson        810   0.0  0.2 427109392  14864   ??  S    31Mar26   3:21.94 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
-ericjohnson        785   0.0  0.1 427000160   5152   ??  Ss   31Mar26   0:00.50 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
-root               779   0.0  0.1 426953120   4336   ??  Ss   31Mar26   0:11.54 /usr/libexec/wifianalyticsd
-_accessoryupdater   766   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.61 /usr/sbin/distnoted agent
-ericjohnson        752   0.0  0.1 427035920   6448   ??  Ss   31Mar26   0:09.54 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
-ericjohnson        747   0.0  0.1 427274608  11840   ??  Ss   31Mar26   0:15.66 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
-ericjohnson        740   0.0  0.3 426996672  21056   ??  Ss   31Mar26   0:39.31 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
-ericjohnson        743   0.0  0.1 426953840   4560   ??  S    31Mar26   0:01.72 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
-ericjohnson        734   0.0  0.3 427043600  23664   ??  Ss   31Mar26   0:20.22 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
-ericjohnson        731   0.0  0.1 426963936   5504   ??  Ss   31Mar26   0:08.79 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
-ericjohnson        728   0.0  0.1 426997776   7760   ??  Ss   31Mar26   0:06.87 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-US")
-ericjohnson        706   0.0  0.2 427258528  17936   ??  Ss   31Mar26   0:32.98 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
-ericjohnson        721   0.0  0.1 426919024   5328   ??  S    31Mar26   0:04.81 /usr/libexec/avconferenced
-ericjohnson        720   0.0  0.0 426912032   3088   ??  S    31Mar26   0:00.23 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
-ericjohnson        716   0.0  0.2 411309696  14896   ??  S    31Mar26   0:38.73 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
-ericjohnson        715   0.0  0.0 411615968   4160   ??  S    31Mar26   0:00.95 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
-ericjohnson        712   0.0  0.1 426995104   8944   ??  S    31Mar26   2:12.32 /usr/libexec/searchpartyuseragent
-ericjohnson        705   0.0  0.4 435484368  35920   ??  S    31Mar26   4:45.87 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
-ericjohnson        704   0.0  0.0 426951184   3920   ??  S    31Mar26   0:24.83 /System/Library/CoreServices/lockoutagent
-ericjohnson        703   0.0  0.5 414097360  42384   ??  S    31Mar26   1:31.10 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
-ericjohnson        694   0.0  0.1 426963744  11152   ??  S    31Mar26   0:14.23 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
-ericjohnson        691   0.0  0.1 426993008   9328   ??  S    31Mar26   1:04.40 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
-ericjohnson        692   0.0  0.2 427399296  19952   ??  S    31Mar26   4:26.02 /usr/libexec/sharingd
-ericjohnson        696   0.0  0.2 411061232  17600   ??  Ss   31Mar26   0:27.15 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
-_nearbyd           693   0.0  0.1 426962544   9120   ??  Ss   31Mar26   2:45.57 /usr/libexec/nearbyd
-ericjohnson        680   0.0  0.1 426958000  12128   ??  S    31Mar26   0:23.05 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
-root               678   0.0  0.0 426950512   2496   ??  Ss   31Mar26   0:01.33 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
-ericjohnson        672   0.0  0.2 427128496  12880   ??  S    31Mar26   2:28.30 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
-_oahd              670   0.0  0.0 426912784   1040   ??  Ss   31Mar26   0:00.35 /usr/libexec/rosetta/oahd
-ericjohnson        660   0.0  0.0 410922000   3664   ??  Ss   31Mar26   0:04.21 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
-ericjohnson        663   0.0  0.1 426954816   5248   ??  S    31Mar26   0:06.44 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
-ericjohnson        656   0.0  0.1 426965072  10352   ??  S    31Mar26   2:55.89 /usr/libexec/ContinuityCaptureAgent server
-ericjohnson        658   0.0  0.3 426998960  22688   ??  S    31Mar26   2:45.21 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
-ericjohnson        649   0.0  0.2 426981328  12960   ??  S    31Mar26   2:08.96 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
-ericjohnson        650   0.0  0.0 426961968   2704   ??  S    31Mar26   0:00.51 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
-root               651   0.0  0.1 426964048  10672   ??  Ss   31Mar26   1:10.66 /usr/libexec/gamepolicyd
-root               648   0.0  0.0 426917920   1152   ??  Ss   31Mar26   0:00.26 automountd
-ericjohnson        640   0.0  0.1 411284320   6592   ??  S    31Mar26   0:19.47 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
-ericjohnson        638   0.0  0.1 411422864   6800   ??  S    31Mar26   0:10.12 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
-root               633   0.0  0.1 426962352   8912   ??  Ss   31Mar26   0:19.27 /usr/sbin/filecoordinationd
+ericjohnson       2497   0.0  0.1 426960304   6784   ??  S    31Mar26   0:33.47 /System/Library/PrivateFrameworks/People.framework/peopled
+_rmd              1171   0.0  0.0 426916080   1552   ??  S    31Mar26   0:04.98 /usr/sbin/distnoted agent
+root              1075   0.0  0.0 426916144   2176   ??  Ss   31Mar26   0:00.07 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+ericjohnson       1009   0.0  0.0 426917104   1968   ??  S    31Mar26   0:00.15 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+ericjohnson       1025   0.0  0.1 415596160   5200   ??  S    31Mar26   0:14.24 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/managedcorespotlightd
+ericjohnson        901   0.0  0.1 426952112   5136   ??  S    31Mar26   0:07.75 /System/Library/CoreServices/diagnostics_agent
+root               991   0.0  0.0 426951920   2464   ??  S    31Mar26   0:03.21 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+_audiomxd          990   0.0  0.0 426950528   4048   ??  Ss   31Mar26   0:02.94 /usr/libexec/audiomxd
+root               831   0.0  0.1 426954928   5168   ??  Ss   31Mar26   0:04.45 /System/Library/CoreServices/SubmitDiagInfo server-init
+ericjohnson        973   0.0  0.1 411268752   4816   ??  S    31Mar26   0:03.01 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s
+_fpsd              970   0.0  0.0 426936560   1872   ??  Ss   31Mar26   0:02.56 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+ericjohnson        966   0.0  0.1 426955376   4656   ??  S    31Mar26   0:01.95 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+_nsurlsessiond     961   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.08 /usr/sbin/distnoted agent
+_gamecontrollerd   922   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.11 /usr/sbin/distnoted agent
+ericjohnson        908   0.0  0.0 426916288   2544   ??  S    31Mar26   0:00.17 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+ericjohnson        894   0.0  0.0 426950304   3328   ??  S    31Mar26   0:04.96 /System/Library/Image Capture/Support/icdd
+ericjohnson        889   0.0  0.1 427004288   8864   ??  S    31Mar26   0:17.81 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+ericjohnson        888   0.0  0.1 426962896  10784   ??  S    31Mar26   0:34.22 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+root               906   0.0  0.0 426916256   2320   ??  Ss   31Mar26   0:00.45 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+ericjohnson        898   0.0  0.1 411519328   4288   ??  S    31Mar26   0:02.51 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+ericjohnson        902   0.0  0.1 411443024   8896   ??  S    31Mar26   0:04.51 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+_applepay          876   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.07 /usr/sbin/distnoted agent
+ericjohnson        869   0.0  0.1 426996992   9120   ??  S    31Mar26   0:35.24 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+_driverkit         863   0.0  0.0 426851568    112   ??  Ss   31Mar26   0:00.43 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e22 com.apple.IOUserBluetoothSerialDriver
+_driverkit         862   0.0  0.0 426851568    112   ??  Ss   31Mar26   0:00.45 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e20 com.apple.IOUserBluetoothSerialDriver
+_driverkit         861   0.0  0.0 426851568    112   ??  Ss   31Mar26   0:00.49 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e1e com.apple.IOUserBluetoothSerialDriver
+ericjohnson        860   0.0  0.1 427345360   4512   ??  Ss   31Mar26   0:00.47 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension
+ericjohnson        855   0.0  0.1 426964688  10848   ??  SN   31Mar26   0:43.34 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+root               846   0.0  0.0 426933184    976   ??  Ss   31Mar26   0:00.09 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+ericjohnson        835   0.0  0.0 427015936   3696   ??  Ss   31Mar26   0:00.24 /System/Applications/Reminders.app/Contents/PlugIns/RemindersWidgetExtension.appex/Contents/MacOS/RemindersWidgetExtension
+ericjohnson        838   0.0  0.1 427142896  11840   ??  S    31Mar26   0:24.75 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+ericjohnson        827   0.0  0.1 427091344   4480   ??  Ss   31Mar26   0:02.22 /System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget
+ericjohnson        810   0.0  0.2 427109744  14592   ??  S    31Mar26   3:53.31 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+ericjohnson        785   0.0  0.1 427000160   4464   ??  Ss   31Mar26   0:00.50 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+root               779   0.0  0.1 426953120   4736   ??  Ss   31Mar26   0:11.80 /usr/libexec/wifianalyticsd
+_accessoryupdater   766   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.27 /usr/sbin/distnoted agent
+ericjohnson        752   0.0  0.1 427035504   6464   ??  Ss   31Mar26   0:10.91 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+ericjohnson        747   0.0  0.3 427272688  28912   ??  Ss   31Mar26   0:16.94 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+ericjohnson        740   0.0  0.2 426996672  20176   ??  Ss   31Mar26   0:45.00 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+ericjohnson        743   0.0  0.1 426953840   4560   ??  S    31Mar26   0:01.92 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+ericjohnson        734   0.0  0.3 427044944  25024   ??  Ss   31Mar26   0:23.09 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+ericjohnson        731   0.0  0.1 426976720   6752   ??  Ss   31Mar26   0:13.22 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+ericjohnson        728   0.0  0.1 426997792   6976   ??  Ss   31Mar26   0:07.65 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-US")
+ericjohnson        706   0.0  0.3 427258336  25088   ??  Ss   31Mar26   0:36.70 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+ericjohnson        721   0.0  0.1 426919024   4544   ??  S    31Mar26   0:05.27 /usr/libexec/avconferenced
+ericjohnson        720   0.0  0.0 426912032   2112   ??  S    31Mar26   0:00.24 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+ericjohnson        716   0.0  0.2 411571904  14352   ??  S    31Mar26   0:43.53 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+ericjohnson        715   0.0  0.0 411615968   4080   ??  S    31Mar26   0:01.04 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+ericjohnson        712   0.0  0.2 426995104  13440   ??  S    31Mar26   2:30.70 /usr/libexec/searchpartyuseragent
+ericjohnson        705   0.0  0.5 434263104  44176   ??  S    31Mar26   5:41.77 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+ericjohnson        704   0.0  0.1 426951184   4416   ??  S    31Mar26   0:28.51 /System/Library/CoreServices/lockoutagent
+ericjohnson        703   0.0  0.3 414244816  23920   ??  S    31Mar26   1:42.95 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+ericjohnson        694   0.0  0.1 426964096  10304   ??  S    31Mar26   0:15.84 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+ericjohnson        696   0.0  0.2 411063296  16928   ??  Ss   31Mar26   0:31.03 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+ericjohnson        680   0.0  0.2 426970784  12880   ??  S    31Mar26   0:27.01 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+root               678   0.0  0.0 426950512   2528   ??  Ss   31Mar26   0:01.50 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+ericjohnson        672   0.0  0.1 427128512   8752   ??  S    31Mar26   2:45.37 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+_oahd              670   0.0  0.0 426912784    976   ??  Ss   31Mar26   0:00.35 /usr/libexec/rosetta/oahd
+ericjohnson        660   0.0  0.0 410922880   3904   ??  Ss   31Mar26   0:05.06 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
+ericjohnson        663   0.0  0.1 426954816   6208   ??  S    31Mar26   0:07.24 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+ericjohnson        656   0.0  0.1 426965424   8800   ??  S    31Mar26   3:15.26 /usr/libexec/ContinuityCaptureAgent server
+ericjohnson        658   0.0  0.3 427002640  25376   ??  S    31Mar26   3:06.91 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+ericjohnson        649   0.0  0.2 426981680  13616   ??  S    31Mar26   2:58.90 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+ericjohnson        650   0.0  0.0 426961968   2720   ??  S    31Mar26   0:00.56 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+root               651   0.0  0.1 426963968  11760   ??  Ss   31Mar26   1:19.23 /usr/libexec/gamepolicyd
+root               648   0.0  0.0 426917920   1152   ??  Ss   31Mar26   0:00.27 automountd
+ericjohnson        640   0.0  0.1 411284320   6352   ??  S    31Mar26   0:23.03 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+ericjohnson        638   0.0  0.1 411422880   8096   ??  S    31Mar26   0:11.30 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+root               633   0.0  0.1 426964208  10064   ??  Ss   31Mar26   0:23.88 /usr/sbin/filecoordinationd
 ericjohnson        632   0.0  0.0 426973600   3040   ??  S    31Mar26   0:00.69 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
-ericjohnson        629   0.0  0.7 416691264  56256   ??  S    31Mar26   4:52.21 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
-ericjohnson        628   0.0  0.1 411268256   5344   ??  S    31Mar26   0:03.77 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
-ericjohnson        627   0.0  0.3 412575536  29280   ??  S    31Mar26   3:28.99 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
-ericjohnson        626   0.0  0.1 426951008   6368   ??  S    31Mar26   0:10.60 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
-ericjohnson        625   0.0  0.4 412033824  35904   ??  S    31Mar26   5:24.73 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
-ericjohnson        622   0.0  0.3 411817904  25616   ??  S    31Mar26   1:37.79 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
-ericjohnson        616   0.0  0.1 426989616  10528   ??  S    31Mar26   0:27.71 /usr/sbin/usernoted
-ericjohnson        612   0.0  0.1 426983296   9136   ??  S    31Mar26   0:44.00 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
-ericjohnson        610   0.0  0.1 426952192   7632   ??  S    31Mar26   0:08.56 /usr/libexec/bluetoothuserd
-ericjohnson        611   0.0  0.1 426952304   4320   ??  S    31Mar26   0:04.50 /System/Library/CoreServices/sharedfilelistd
-ericjohnson        609   0.0  0.1 426955776  11488   ??  S    31Mar26   0:24.86 /System/Library/CoreServices/audioaccessoryd
-_spotlight         605   0.0  0.0 426916640   1584   ??  S    31Mar26   0:04.68 /usr/sbin/distnoted agent
-_ctkd              606   0.0  0.0 426950080   3280   ??  Ss   31Mar26   0:00.16 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
-ericjohnson        590   0.0  0.1 427027920  10976   ??  S    31Mar26   2:18.10 /usr/libexec/nsurlsessiond
-ericjohnson        589   0.0  0.2 426992304  17680   ??  S    31Mar26   2:08.89 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
-ericjohnson        588   0.0  0.1 426949312   6416   ??  S    31Mar26   0:40.23 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
-ericjohnson        587   0.0  0.2 427172160  18144   ??  S    31Mar26   1:55.60 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
-ericjohnson        586   0.0  0.1 426992960   6752   ??  S    31Mar26   0:32.39 /System/Library/CoreServices/talagentd
-_appleevents       582   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.53 /usr/sbin/distnoted agent
-ericjohnson        583   0.0  0.1 426958592   9792   ??  S    31Mar26   5:01.59 /usr/libexec/trustd --agent
-ericjohnson        580   0.0  0.1 426951440  11760   ??  S    31Mar26   3:11.35 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
-ericjohnson        578   0.0  0.3 427053728  27280   ??  S    31Mar26   6:05.08 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
-ericjohnson        577   0.0  0.2 426996032  14016   ??  S    31Mar26   2:47.26 /usr/libexec/secd
-ericjohnson        576   0.0  0.2 426963872  12832   ??  S    31Mar26   1:54.86 /usr/libexec/rapportd
-ericjohnson        568   0.0  0.1 427002208  10256   ??  S    31Mar26   0:46.05 /usr/libexec/lsd
-ericjohnson        564   0.0  0.1 426930512   6512   ??  S    31Mar26   0:01.80 /usr/libexec/pboard
-ericjohnson        554   0.0  0.1 426953968   8528   ??  S    31Mar26   1:17.69 /usr/libexec/UserEventAgent (Aqua)
-ericjohnson        557   0.0  0.3 411813952  25456   ??  S    31Mar26   5:14.64 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
-ericjohnson        561   0.0  0.1 411256704   6848   ??  S    31Mar26   0:11.38 /usr/sbin/universalaccessd launchd -s
-ericjohnson        548   0.0  0.1 426918496   4704   ??  S    31Mar26   2:22.07 /usr/sbin/cfprefsd agent
-ericjohnson        547   0.0  0.0 426916640   3952   ??  S    31Mar26   1:07.57 /usr/sbin/distnoted agent
-root               545   0.0  0.8 440053696  64592   ??  Ss   31Mar26  80:38.94 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
-root               543   0.0  0.1 426951024   7296   ??  Ss   31Mar26   0:05.62 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
-root               537   0.0  0.0 411884368    800   ??  Ss   31Mar26   0:00.38 /Library/PrivilegedHelperTools/com.docker.vmnetd
-_modelmanagerd     527   0.0  0.1 426985664   4416   ??  Ss   31Mar26   0:12.88 /usr/libexec/modelmanagerd
-_softwareupdate    525   0.0  0.0 426916640   1632   ??  S    31Mar26   0:04.74 /usr/sbin/distnoted agent
-root               519   0.0  0.0 426954992   3712   ??  Ss   31Mar26   0:00.74 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
-_locationd         518   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.83 /usr/sbin/distnoted agent
-root               514   0.0  0.0 410792768   2976   ??  Ss   31Mar26   1:10.60 /usr/libexec/audioclocksyncd
-_driverkit         509   0.0  0.0 426851696    608   ??  Ss   31Mar26   0:02.47 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000c2b com.apple.AppleUserHIDDrivers
-_driverkit         508   0.0  0.0 426851488     96   ??  Ss   31Mar26   0:00.50 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000c22 com.apple.DriverKit-IOUserDockChannelSerial
-_appleevents       504   0.0  0.0 426950832   2928   ??  Ss   31Mar26   0:01.51 /System/Library/CoreServices/appleeventsd --server
-root               503   0.0  0.1 426952224   6944   ??  Ss   31Mar26   2:16.50 /usr/libexec/aned
-_cmiodalassistants   501   0.0  0.0 426950800   2944   ??  Ss   31Mar26   0:00.58 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
-root               499   0.0  0.1 426951440   5712   ??  Ss   31Mar26   0:33.10 /usr/sbin/WirelessRadioManagerd
-_cmiodalassistants   497   0.0  0.0 426949680   2784   ??  Ss   31Mar26   0:00.24 /usr/libexec/cameracaptured
-_cmiodalassistants   496   0.0  0.0 426954432   3392   ??  Ss   31Mar26   0:10.08 /usr/sbin/appleh13camerad
-_cmiodalassistants   484   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.75 /usr/sbin/distnoted agent
+ericjohnson        629   0.0  0.8 416826176  71104   ??  S    31Mar26   5:24.75 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+ericjohnson        628   0.0  0.1 411530416   4832   ??  S    31Mar26   0:04.07 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+ericjohnson        627   0.0  0.4 412581920  34432   ??  S    31Mar26   3:54.72 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+ericjohnson        626   0.0  0.1 426951024   6144   ??  S    31Mar26   0:11.95 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+ericjohnson        625   0.0  0.5 412173600  41056   ??  S    31Mar26   6:11.33 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+ericjohnson        622   0.0  0.3 412265968  24880   ??  S    31Mar26   1:51.35 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+ericjohnson        616   0.0  0.1 426989968  11728   ??  S    31Mar26   0:30.51 /usr/sbin/usernoted
+ericjohnson        612   0.0  0.1 426987744  10128   ??  S    31Mar26   0:49.25 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+ericjohnson        610   0.0  0.1 426952192   7712   ??  S    31Mar26   0:09.70 /usr/libexec/bluetoothuserd
+ericjohnson        611   0.0  0.1 426952304   6112   ??  S    31Mar26   0:05.02 /System/Library/CoreServices/sharedfilelistd
+ericjohnson        609   0.0  0.1 426955216   9520   ??  S    31Mar26   0:27.82 /System/Library/CoreServices/audioaccessoryd
+_spotlight         605   0.0  0.0 426916080   1568   ??  S    31Mar26   0:05.36 /usr/sbin/distnoted agent
+_ctkd              606   0.0  0.0 426950080   3280   ??  Ss   31Mar26   0:00.17 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+ericjohnson        590   0.0  0.1 427029952  10704   ??  S    31Mar26   3:06.06 /usr/libexec/nsurlsessiond
+ericjohnson        589   0.0  0.2 426992304  16560   ??  S    31Mar26   2:23.59 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+ericjohnson        588   0.0  0.1 426949312   6080   ??  S    31Mar26   0:46.27 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+ericjohnson        587   0.0  0.3 427184944  22192   ??  S    31Mar26   2:11.00 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+ericjohnson        586   0.0  0.1 426992976   7680   ??  S    31Mar26   0:36.65 /System/Library/CoreServices/talagentd
+_appleevents       582   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.18 /usr/sbin/distnoted agent
+ericjohnson        583   0.0  0.1 427035136  10288   ??  S    31Mar26   5:54.19 /usr/libexec/trustd --agent
+ericjohnson        580   0.0  0.1 426951440   8976   ??  S    31Mar26   3:34.86 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+ericjohnson        578   0.0  0.3 427056144  26208   ??  S    31Mar26   7:13.67 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+ericjohnson        577   0.0  0.2 427015344  15664   ??  S    31Mar26   3:05.78 /usr/libexec/secd
+ericjohnson        576   0.0  0.2 426962064  12736   ??  S    31Mar26   2:06.35 /usr/libexec/rapportd
+ericjohnson        568   0.0  0.1 427004448  10304   ??  S    31Mar26   0:51.63 /usr/libexec/lsd
+ericjohnson        564   0.0  0.1 426930336   6864   ??  S    31Mar26   0:02.03 /usr/libexec/pboard
+ericjohnson        554   0.0  0.1 426953408   7904   ??  S    31Mar26   1:25.52 /usr/libexec/UserEventAgent (Aqua)
+ericjohnson        561   0.0  0.1 411255696   6000   ??  S    31Mar26   0:12.81 /usr/sbin/universalaccessd launchd -s
+ericjohnson        548   0.0  0.1 426919056   4640   ??  S    31Mar26   2:38.04 /usr/sbin/cfprefsd agent
+ericjohnson        547   0.0  0.1 426916080   4304   ??  S    31Mar26   1:20.13 /usr/sbin/distnoted agent
+root               545   0.0  1.1 439983248  89888   ??  Ss   31Mar26  84:54.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               543   0.0  0.1 426951024   7984   ??  Ss   31Mar26   0:06.21 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               537   0.0  0.0 411884368    816   ??  Ss   31Mar26   0:00.44 /Library/PrivilegedHelperTools/com.docker.vmnetd
+root               533   0.0  0.2 427043200  20240   ??  Ss   31Mar26   6:34.17 /usr/libexec/searchpartyd
+_modelmanagerd     527   0.0  0.1 426985840   5632   ??  Ss   31Mar26   0:13.64 /usr/libexec/modelmanagerd
+_softwareupdate    525   0.0  0.0 426916080   1712   ??  S    31Mar26   0:05.44 /usr/sbin/distnoted agent
+root               519   0.0  0.0 426955680   3712   ??  Ss   31Mar26   0:00.88 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_locationd         518   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.54 /usr/sbin/distnoted agent
+root               514   0.0  0.0 410791648   2992   ??  Ss   31Mar26   1:21.40 /usr/libexec/audioclocksyncd
+_driverkit         509   0.0  0.0 426851696    512   ??  Ss   31Mar26   0:02.78 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000c2b com.apple.AppleUserHIDDrivers
+_driverkit         508   0.0  0.0 426851488     96   ??  Ss   31Mar26   0:00.56 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000c22 com.apple.DriverKit-IOUserDockChannelSerial
+_appleevents       504   0.0  0.0 426950832   3584   ??  Ss   31Mar26   0:01.68 /System/Library/CoreServices/appleeventsd --server
+root               503   0.0  0.0 426952224   3744   ??  Ss   31Mar26   2:19.42 /usr/libexec/aned
+_cmiodalassistants   501   0.0  0.0 426950800   3120   ??  Ss   31Mar26   0:00.64 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+root               499   0.0  0.1 426951440   6112   ??  Ss   31Mar26   0:36.89 /usr/sbin/WirelessRadioManagerd
+_cmiodalassistants   497   0.0  0.0 426949680   2912   ??  Ss   31Mar26   0:00.26 /usr/libexec/cameracaptured
+_cmiodalassistants   496   0.0  0.0 426954432   3792   ??  Ss   31Mar26   0:11.57 /usr/sbin/appleh13camerad
+_cmiodalassistants   484   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.44 /usr/sbin/distnoted agent
 root               475   0.0  0.0 426916320   2336   ??  Ss   31Mar26   0:00.05 /usr/libexec/ApplicationFirewall/socketfilterfw
-root               469   0.0  0.0 426917488   2208   ??  Ss   31Mar26   0:04.92 /usr/sbin/mDNSResponderHelper
-_analyticsd        391   0.0  0.1 426961440  10944   ??  Ss   31Mar26   0:45.53 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
-root             38777   0.0  0.0 410724368   1936 s002  R+    9:46PM   0:00.01 ps aux
-_windowserver      453   0.0  0.0 426916640   1552   ??  S    31Mar26   0:04.94 /usr/sbin/distnoted agent
-_coreaudiod        446   0.0  0.0 426916640   1552   ??  S    31Mar26   0:05.15 /usr/sbin/distnoted agent
-root               437   0.0  0.1 426951120   4432   ??  Ss   31Mar26   0:11.84 /usr/libexec/eligibilityd
-root               434   0.0  0.0 426951760   2448   ??  Ss   31Mar26   0:17.62 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
-root               401   0.0  0.0 426916640   1664   ??  S    31Mar26   0:05.66 /usr/sbin/distnoted agent
-_coreaudiod        397   0.0  0.1 426992608  10064   ??  Ss   31Mar26   6:23.75 /usr/sbin/coreaudiod
-_nsurlsessiond     395   0.0  0.1 426980624   7440   ??  Ss   31Mar26   0:14.31 /usr/libexec/nsurlsessiond --privileged
-root               394   0.0  0.0 426949904   2336   ??  Ss   31Mar26   2:08.88 /usr/libexec/apfsd
-root               386   0.0  0.2 426957552  18480   ??  Ss   31Mar26  32:00.38 /usr/libexec/airportd
-root               384   0.0  0.0 426935984   3440   ??  Ss   31Mar26   0:06.62 /System/Library/CoreServices/coreservicesd
-root               383   0.0  0.1 426959312   9136   ??  Ss   31Mar26   3:38.47 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
-root               382   0.0  0.2 426964976  16096   ??  Ss   31Mar26  10:01.88 /usr/libexec/runningboardd
-_timed             350   0.0  0.0 426950656   2864   ??  Ss   31Mar26   0:13.95 /usr/libexec/timed
-_distnote          360   0.0  0.0 426916640   2992   ??  Ss   31Mar26   0:38.23 /usr/sbin/distnoted daemon
+root               469   0.0  0.0 426917488   2192   ??  Ss   31Mar26   0:05.66 /usr/sbin/mDNSResponderHelper
+_analyticsd        391   0.0  0.1 426961440   8800   ??  Ss   31Mar26   0:51.09 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_locationd         354   0.0  0.2 426986304  20112   ??  Ss   31Mar26  15:07.76 /usr/libexec/locationd
+_windowserver      453   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.65 /usr/sbin/distnoted agent
+_coreaudiod        446   0.0  0.0 426916080   1536   ??  S    31Mar26   0:05.90 /usr/sbin/distnoted agent
+root               437   0.0  0.1 426951120   4672   ??  Ss   31Mar26   0:13.16 /usr/libexec/eligibilityd
+root               434   0.0  0.0 426951760   2336   ??  Ss   31Mar26   0:19.67 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               401   0.0  0.0 426916080   1648   ??  S    31Mar26   0:06.48 /usr/sbin/distnoted agent
+_nsurlsessiond     395   0.0  0.1 426969392   7184   ??  Ss   31Mar26   0:16.61 /usr/libexec/nsurlsessiond --privileged
+root               394   0.0  0.0 426949904   2368   ??  Ss   31Mar26   2:09.12 /usr/libexec/apfsd
+root               385   0.0  0.1 426962544  10128   ??  Ss   31Mar26   0:42.48 /usr/libexec/lsd runAsRoot
+root               384   0.0  0.0 426939712   3328   ??  Ss   31Mar26   0:07.39 /System/Library/CoreServices/coreservicesd
+root               383   0.0  0.1 426959312   8816   ??  Ss   31Mar26   4:03.68 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+_timed             350   0.0  0.0 426950656   2864   ??  Ss   31Mar26   0:15.62 /usr/libexec/timed
+_distnote          360   0.0  0.0 426916080   2944   ??  Ss   31Mar26   0:44.18 /usr/sbin/distnoted daemon
 _corespeechd       329   0.0  0.0 410663696   1072   ??  Ss   31Mar26   0:00.02 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd_system
-ericjohnson        380   0.0  0.1 411959168  10064   ??  Ss   31Mar26   3:13.53 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
-_usbmuxd           351   0.0  0.0 426960544   2592   ??  Ss   31Mar26   0:01.15 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
-root               379   0.0  0.1 426916944   4752   ??  Ss   31Mar26   2:19.93 /usr/sbin/cfprefsd daemon
-root               378   0.0  0.1 426963248  10752   ??  Ss   31Mar26   0:40.33 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
-root               321   0.0  0.0 426913216   2144   ??  Ss   31Mar26   0:01.46 /usr/libexec/IOMFB_bics_daemon
-root               365   0.0  0.0 426951984   3984   ??  Ss   31Mar26   0:01.05 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
-root               315   0.0  0.1 426963040   7472   ??  Ss   31Mar26   0:18.21 /usr/sbin/systemstats --daemon
-root               358   0.0  0.2 426958064  14432   ??  Ss   31Mar26   3:41.29 /usr/libexec/dasd
-root               374   0.0  0.1 426950128   6688   ??  Ss   31Mar26   0:18.53 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
-root               349   0.0  0.1 426955872   8288   ??  Ss   31Mar26   3:19.46 /System/Library/CoreServices/launchservicesd
-root               312   0.0  0.1 426968096  11584   ??  Ss   31Mar26   0:17.53 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
-root               342   0.0  0.0 426917344   1488   ??  Ss   31Mar26   0:23.49 /usr/sbin/syslogd
-root               373   0.0  0.1 426951792   7024   ??  Ss   31Mar26   0:18.17 /usr/libexec/AirPlayXPCHelper
-root               346   0.0  0.1 426957600   8544   ??  Ss   31Mar26   7:42.03 /usr/libexec/opendirectoryd
-root               335   0.0  0.2 427003392  19632   ??  Ss   31Mar26  37:14.26 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
-root               345   0.0  0.0 426950464   3776   ??  Ss   31Mar26   0:21.48 /usr/libexec/thermalmonitord
-root               357   0.0  0.0 426912592   1776   ??  Ss   31Mar26   0:00.16 autofsd
-root               352   0.0  0.1 426951760   4784   ??  Ss   31Mar26   0:19.70 /usr/sbin/securityd -i
-root               331   0.0  0.0 426916784   2336   ??  Ss   31Mar26   0:04.08 /usr/libexec/watchdogd
-root               366   0.0  0.0 426916704    928   ??  Ss   31Mar26   0:00.11 /usr/sbin/KernelEventAgent
-root               372   0.0  0.1 426950656   6976   ??  Ss   31Mar26   3:20.15 /usr/libexec/corebrightnessd --launchd
-root               348   0.0  0.1 427035424   9904   ??  Ss   31Mar26   2:05.63 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
-root               364   0.0  0.0 426916208   2832   ??  Ss   31Mar26   0:01.12 /System/Library/CoreServices/logind
-root               370   0.0  0.0 426916336   3184   ??  Ss   31Mar26   2:13.69 /usr/sbin/notifyd
-root               337   0.0  0.0 426954192   2960   ??  Ss   31Mar26   0:00.80 /usr/libexec/kernelmanagerd
-root               325   0.0  0.0 426950320   1984   ??  Ss+  31Mar26   0:00.35 /usr/libexec/remoted
-root               338   0.0  0.1 426950192   4336   ??  Ss   31Mar26   0:16.74 /usr/libexec/diskarbitrationd
-root               320   0.0  0.1 426952176   9392   ??  Ss   31Mar26   2:37.40 /System/Library/CoreServices/powerd.bundle/powerd
-root               318   0.0  0.1 426956192   8144   ??  Ss   31Mar26   4:55.17 /usr/libexec/configd
-root               311   0.0  0.1 426921648   5328   ??  Ss   31Mar26   7:26.07 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
-root               309   0.0  0.1 426959024   9680   ??  Ss   31Mar26   0:40.02 /usr/libexec/UserEventAgent (System)
-_networkd          465   0.0  0.1 426955872   8944   ??  Ss   31Mar26   1:53.25 /usr/libexec/symptomsd
-ericjohnson      38773   0.0  0.0 410734000   2032 s002  S+    9:46PM   0:00.01 /bin/bash ./Task.sh
-ericjohnson      38765   0.0  0.2 426970848  19536   ??  S     9:46PM   0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-ericjohnson      38764   0.0  0.4 426970848  29584   ??  S     9:45PM   0:00.16 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-ericjohnson      38763   0.0  0.2 426970848  19824   ??  S     9:45PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-ericjohnson      38762   0.0  1.3 499272288 112208   ??  Ss    9:45PM   0:00.18 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-ericjohnson      38757   0.0  0.1 410838336  10384   ??  S     9:43PM   0:02.11 /Users/ericjohnson/.vscode/extensions/ms-vscode.cpptools-1.31.4-darwin-arm64/bin/cpptools-srv 38740 {728C4BB6-6937-5744-88D8-A9E1651AB8A5}
-ericjohnson      38740   0.0  0.7 411322384  58944   ??  S     9:43PM   0:07.21 /Users/ericjohnson/.vscode/extensions/ms-vscode.cpptools-1.31.4-darwin-arm64/bin/cpptools
-ericjohnson      38716   0.0  0.8 1596780800  71088   ??  S     9:42PM   0:02.27 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
-ericjohnson      38715   0.0  0.5 1596797712  41072   ??  S     9:42PM   0:00.22 /private/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/AppTranslocation/9800535D-FF16-40DB-99D6-3AE49260736B/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/ericjohnson/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,4265007907075654668,15692002349595379727,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
-ericjohnson      38658   0.0  0.0 426912272   3520   ??  S     9:42PM   0:00.02 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
-ericjohnson      38657   0.0  0.2 426958112  14496   ??  S     9:42PM   0:00.32 /usr/libexec/appleaccountd
-ericjohnson      38656   0.0  0.1 426950080  10320   ??  S     9:42PM   0:00.11 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
-ericjohnson      38655   0.0  0.2 426914928  16048   ??  Ss    9:42PM   0:00.04 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
-ericjohnson      38654   0.0  1.0 411270624  82448   ??  Ss    9:42PM   0:03.08 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
-ericjohnson      38642   0.0  0.0 426957840   3616   ??  Ss    9:41PM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
-ericjohnson      38641   0.0  0.0 426957808   3616   ??  Ss    9:41PM   0:00.07 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+ericjohnson        380   0.0  0.3 412105088  28128   ??  Ss   31Mar26   3:36.99 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+_usbmuxd           351   0.0  0.0 426960544   2592   ??  Ss   31Mar26   0:01.28 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root               379   0.0  0.0 426917504   4128   ??  Ss   31Mar26   2:37.76 /usr/sbin/cfprefsd daemon
+root               378   0.0  0.2 426963424  12768   ??  Ss   31Mar26   0:46.16 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               321   0.0  0.0 426913216   2144   ??  Ss   31Mar26   0:01.60 /usr/libexec/IOMFB_bics_daemon
+root               365   0.0  0.0 426951984   4032   ??  Ss   31Mar26   0:01.13 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               315   0.0  0.1 426963216   7952   ??  Ss   31Mar26   0:21.04 /usr/sbin/systemstats --daemon
+root               358   0.0  0.2 426958064  14000   ??  Ss   31Mar26   4:10.27 /usr/libexec/dasd
+root               374   0.0  0.0 426950128   3760   ??  Ss   31Mar26   0:20.13 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               349   0.0  0.1 426957152   9456   ??  Ss   31Mar26   3:45.48 /System/Library/CoreServices/launchservicesd
+root               312   0.0  0.1 426957424   6160   ??  Ss   31Mar26   0:19.12 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               342   0.0  0.0 426917344    480   ??  Ss   31Mar26   0:26.06 /usr/sbin/syslogd
+root               373   0.0  0.1 426951792   6512   ??  Ss   31Mar26   0:20.56 /usr/libexec/AirPlayXPCHelper
+root               346   0.0  0.1 426957040   8352   ??  Ss   31Mar26   8:47.23 /usr/libexec/opendirectoryd
+root               335   0.0  0.2 427005168  18400   ??  Ss   31Mar26  40:46.96 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               345   0.0  0.0 426950464   3776   ??  Ss   31Mar26   0:24.75 /usr/libexec/thermalmonitord
+root               357   0.0  0.0 426912592   1776   ??  Ss   31Mar26   0:00.18 autofsd
+root               352   0.0  0.1 426951760   6336   ??  Ss   31Mar26   0:21.98 /usr/sbin/securityd -i
+root               331   0.0  0.0 426916784   2320   ??  Ss   31Mar26   0:04.69 /usr/libexec/watchdogd
+root               366   0.0  0.0 426916704    928   ??  Ss   31Mar26   0:00.12 /usr/sbin/KernelEventAgent
+root               372   0.0  0.1 426950656   6368   ??  Ss   31Mar26   3:50.62 /usr/libexec/corebrightnessd --launchd
+root               348   0.0  0.1 427035552   8048   ??  Ss   31Mar26   2:21.29 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               364   0.0  0.0 426916208   2848   ??  Ss   31Mar26   0:01.25 /System/Library/CoreServices/logind
+root               370   0.0  0.0 426916336   3232   ??  Ss   31Mar26   2:27.48 /usr/sbin/notifyd
+root               337   0.0  0.0 426954192   2944   ??  Ss   31Mar26   0:00.81 /usr/libexec/kernelmanagerd
+root               325   0.0  0.0 426950320   1968   ??  Ss+  31Mar26   0:00.38 /usr/libexec/remoted
+root               338   0.0  0.1 426950192   4896   ??  Ss   31Mar26   0:19.12 /usr/libexec/diskarbitrationd
+root               320   0.0  0.1 426952176   8304   ??  Ss   31Mar26   2:59.16 /System/Library/CoreServices/powerd.bundle/powerd
+root               318   0.0  0.1 426955632   6464   ??  Ss   31Mar26   5:27.65 /usr/libexec/configd
+root               311   0.0  0.1 426926688   5632   ??  Ss   31Mar26   8:14.60 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               309   0.0  0.1 426959024   8048   ??  Ss   31Mar26   0:44.95 /usr/libexec/UserEventAgent (System)
+root             16393   0.0  0.0 426916896   2016   ??  Ss    2Apr26   0:00.13 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdsync -s mdworker-scan -c MDSSyncScanWorker -m com.apple.metadata.mds.scan
+ericjohnson      44298   0.0  0.2 426971200  19056   ??  S     8:04PM   0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+ericjohnson      44294   0.0  0.1 426971200   9136   ??  S     8:03PM   0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+ericjohnson      44291   0.0  0.1 426971200   8576   ??  S     8:03PM   0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+ericjohnson      44292   0.0  0.1 426971200   8640   ??  S     8:03PM   0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+ericjohnson      44280   0.0  0.4 411227600  32800   ??  S     8:03PM   0:00.07 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent launchd -s
+ericjohnson      44274   0.0  0.1 426971200  10144   ??  S     8:03PM   0:00.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_fpsd            44266   0.0  0.3 426954752  21712   ??  Ss    8:02PM   0:01.74 /usr/libexec/fairplaydeviceidentityd
+ericjohnson      44265   0.0  0.2 427046256  20832   ??  S     8:02PM   0:00.36 /usr/libexec/promotedcontentd
+ericjohnson      44204   0.0  0.0 410780880   1312 s002  S+    7:59PM   0:00.02 -zsh
+root             44203   0.0  0.0 410752944   3648 s002  Ss    7:59PM   0:00.02 login -pfl ericjohnson /bin/bash -c exec -la zsh /bin/zsh
+ericjohnson      44077   0.0  0.0 426953712   3648   ??  Ss    7:55PM   0:00.11 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+ericjohnson      44027   0.0  0.1 426916144   4400   ??  S     7:54PM   0:00.36 /System/Library/PrivateFrameworks/IntelligenceFlowRuntime.framework/Versions/A/intelligenceflowd
+root             44017   0.0  0.0 410752944   3648 s001  Ss    7:54PM   0:00.02 login -pf ericjohnson
+ericjohnson      43984   0.0  0.0 426917760   3424   ??  S     7:39PM   0:00.05 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+ericjohnson      43981   0.0  0.3 427019696  21168   ??  S     7:38PM   0:00.24 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+ericjohnson      43965   0.0  0.1 414928240  11776   ??  S     7:37PM   0:01.63 /opt/homebrew/Caskroom/codeql/2.24.3/codeql/tools/osx64/java-aarch64/bin/java -Dcodeql.chainer.v2=/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/codeql.XXXXXXXX.BTAe5vi8f4 --add-modules jdk.unsupported -cp /opt/homebrew/Caskroom/codeql/2.24.3/codeql/tools/codeql.jar com.semmle.cli2.CodeQL execute language-server --check-errors ON_CHANGE -v --log-to-stderr
+ericjohnson      43957   0.0  0.1 414004160   8960   ??  S     7:37PM   0:01.07 /opt/homebrew/Caskroom/codeql/2.24.3/codeql/tools/osx64/java-aarch64/bin/java -Xmx1179M -Dcodeql.chainer.v2=/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/codeql.XXXXXXXX.HZrLK6SPE4 --add-modules jdk.unsupported -cp /opt/homebrew/Caskroom/codeql/2.24.3/codeql/tools/codeql.jar com.semmle.cli2.CodeQL execute query-server2 --threads 1 -J-Xmx1179M --evaluator-log /Users/ericjohnson/Library/Application Support/Code/User/workspaceStorage/e6ef7bac9a7052e00551cc5c46e74052/GitHub.vscode-codeql/structured-evaluator-log.json -v --log-to-stderr
+ericjohnson      43956   0.0  0.0 410083648    384   ??  S     7:37PM   0:00.01 /bin/sh /opt/homebrew/bin/codeql execute language-server --check-errors ON_CHANGE -v --log-to-stderr
+ericjohnson      43945   0.0  0.0 410082624    384   ??  S     7:37PM   0:00.01 /bin/sh /opt/homebrew/bin/codeql execute query-server2 --threads 1 -J-Xmx1179M --evaluator-log /Users/ericjohnson/Library/Application Support/Code/User/workspaceStorage/e6ef7bac9a7052e00551cc5c46e74052/GitHub.vscode-codeql/structured-evaluator-log.json -v --log-to-stderr
+ericjohnson      43943   0.0  0.5 414922000  43824   ??  S     7:37PM   0:01.76 /opt/homebrew/Caskroom/codeql/2.24.3/codeql/tools/osx64/java-aarch64/bin/java -Dcodeql.chainer.v2=/var/folders/_f/jgyn7w357dj6zkbbwm0c9p0c0000gn/T/codeql.XXXXXXXX.eXMy33Nceg --add-modules jdk.unsupported -cp /opt/homebrew/Caskroom/codeql/2.24.3/codeql/tools/codeql.jar com.semmle.cli2.CodeQL execute cli-server -v --log-to-stderr
+ericjohnson      43928   0.0  0.0 410072384    384   ??  S     7:37PM   0:00.00 /bin/sh /opt/homebrew/bin/codeql execute cli-server -v --log-to-stderr
+ericjohnson      43841   0.0  0.2 411274000  19024   ??  S     7:37PM   0:06.88 /Users/ericjohnson/.vscode/extensions/ms-vscode.cpptools-1.31.4-darwin-arm64/bin/cpptools
+ericjohnson      43828   0.0  0.0 410167712   1728   ??  Ss    7:37PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root             43827   0.0  0.0 426950688   3968   ??  Ss    7:37PM   0:00.04 /usr/libexec/amfid
