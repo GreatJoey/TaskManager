@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <chrono>
+#include <ctime>
 using namespace std;
 
 void print(string user, int pid, double cpu, double mem, string timestamp, string duration, string command)
@@ -109,6 +111,9 @@ int main()
     open_file(filepath);
 
     // add something here to print current date and time
+    time_t now = std::time(nullptr);
+    cout << "Current time: " << std::ctime(&now);
+    cout << endl;
 
     return 0;
 }
