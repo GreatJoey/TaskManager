@@ -1,5 +1,8 @@
 #!/bin/bash
 
+rm proc.txt
+rm newproc.txt
+
 echo "Running ps aux"
 
 ps aux > proc.txt

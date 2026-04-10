@@ -66,29 +66,37 @@ void open_file(string filepath)
 
     while (getline(myfile, line)){
         // get the user
-        location = line.find(' ');
+        location = line.find(',');
         user = line.substr(0, location);
         line = line.substr(location + 1, line.length());
         cout << "User: " << user << endl;
 
-        //get the PID
-        pid = loc(location, line);
+        // get the PID
+        location = line.find(',');
+        pid = stoi(line.substr(0, location));
+        line = line.substr(location + 1, line.length());
         cout << "PID: " << pid << endl;
-        location = setloc(location, line);
-       // cout << location << endl; 
-        line = line.substr(location + 1, line.length());
 
-        cpu = locd(location, line);
-        cout << "CPU usage: " << cpu << endl;
-        location = setloc(location, line);
+        // get the cpu usage
+        location = line.find(',');
+        cpu = stod(line.substr(0, location));
         line = line.substr(location + 1, line.length());
-        
+        cout << "CPU Usage: " << cpu << endl;
+
+        // get the memory usage
+        location = line.find(',');
+        mem = stod(line.substr(0, location));
+        line = line.substr(location + 1, line.length());
+        cout << "Memory Usage: " << mem << endl; 
+
+
+        cout << endl;
     }
 }
 
 int main()
 {
-    string filepath = "proc.txt";
+    string filepath = "newproc.txt";
     cout << "Starting task manager" << endl;
     cout << endl;
 
