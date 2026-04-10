@@ -3,45 +3,17 @@
 #include <string>
 using namespace std;
 
-int loc(int location, string line)
+void print(string user, int pid, double cpu, double mem, string timestamp, string duration, string command)
 {
-    int i = 0;
-    for (i=0; i<100; i++){
-        if(line.substr(i) != " "){
-            location = stoi(line.substr(i));
-            break;
-        }
-    }
-
-    return location;
-}
-
-double locd(int location, string line)
-{
-    int i = 0;
-    for(i=0; i<10; i++){
-        if(line.substr(i) == "1" || line.substr(i) == "2" || line.substr(i) == "3" || line.substr(i) == "4"){
-            for(int j=0; j<10; j++){
-                if(line.substr(j) == " "){
-                    location = stod(line.substr(j));
-                }
-            }
-        }
-    }
-    return location;
-}
-
-int setloc(int location, string line) /* The issue is its only skipping over one space */
-{
-    int i = 0;
-    for(i=0; i<5;i++){
-        if(line.substr(i) != " "){
-            location = i;
-            cout << i << endl;
-            break;
-        }
-    }
-    return location;
+    cout << "--------------------------------------------------------------------------------" << endl;
+    cout << "User: " << user << endl;
+    cout << "Process ID: " << pid << endl;
+    cout << "CPU usage: " << cpu << endl;
+    cout << "Memory usage: " << mem << endl;
+    cout << "Timestamp: " << timestamp << endl;
+    cout << "Duration: " << duration << endl;
+    cout << "Command run: " << command << endl;
+    cout << "--------------------------------------------------------------------------------" << endl;
 }
 
 void open_file(string filepath)
@@ -53,6 +25,14 @@ void open_file(string filepath)
     int pid;
     double cpu;
     double mem;
+    string timestamp;
+    string duration;
+    string command;
+
+    string garb1;
+    string garb2;
+    string garb3;
+    string garb4;
 
     myfile.open(filepath);
     if(myfile.is_open()){
@@ -69,26 +49,52 @@ void open_file(string filepath)
         location = line.find(',');
         user = line.substr(0, location);
         line = line.substr(location + 1, line.length());
-        cout << "User: " << user << endl;
 
         // get the PID
         location = line.find(',');
         pid = stoi(line.substr(0, location));
         line = line.substr(location + 1, line.length());
-        cout << "PID: " << pid << endl;
 
         // get the cpu usage
         location = line.find(',');
         cpu = stod(line.substr(0, location));
         line = line.substr(location + 1, line.length());
-        cout << "CPU Usage: " << cpu << endl;
 
         // get the memory usage
         location = line.find(',');
         mem = stod(line.substr(0, location));
         line = line.substr(location + 1, line.length());
-        cout << "Memory Usage: " << mem << endl; 
 
+        // Garbage stuff we dont care about
+        location = line.find(',');
+        garb1 = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+        location = line.find(',');
+        garb2 = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+        location = line.find(',');
+        garb3 = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+        location = line.find(',');
+        garb4 = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+
+        // get the timestamp
+        location = line.find(',');
+        timestamp = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+
+        // get the duration
+        location = line.find(',');
+        duration = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+
+        //get the command run
+        location = line.find(',');
+        command = line.substr(0, location);
+        line = line.substr(location + 1, line.length());
+
+        print(user, pid, cpu, mem, timestamp, duration, command);
 
         cout << endl;
     }
@@ -101,6 +107,8 @@ int main()
     cout << endl;
 
     open_file(filepath);
+
+    // add something here to print current date and time
 
     return 0;
 }
